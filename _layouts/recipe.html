@@ -5,12 +5,12 @@ layout: default
   <h1 style="margin-bottom: 15px;">{{ page.title }}</h1>
   
   {% if page.preview %}
-    <div style="width: 100%; max-height: 450px; background: #000; border-radius: 8px; overflow: hidden; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <div style="width: 100%; max-height: 450px; background: black; border-radius: 8px; overflow: hidden; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
       <img src="{{ page.preview | relative_url }}" alt="{{ page.title }}" style="max-width: 100%; max-height: 450px; width: auto; height: auto; object-fit: contain; border: 0px; box-shadow: none;">
     </div>
   {% endif %}
   
-  <p style="font-size: 16px; line-height: 1.5; color: #333;">{{ page.description }}</p>
+  <p style="font-size: 16px; line-height: 1.5; color: black;">{{ page.description }}</p>
   
   <div class="recipe-meta" style="background: #f6f8fa; padding: 12px; border-radius: 6px; margin: 20px 0;">
     <strong>Время приготовления:</strong> {{ page.prep_time | default: "Не указано" }} &nbsp;|&nbsp; 
@@ -21,7 +21,7 @@ layout: default
   <ul style="line-height: 1.6;">
     {% for ing in page.ingredients %}
       {% if ing.isHead %}
-        <li style="list-style: none; font-weight: bold; margin-top: 10px; color: #24292e;">{{ ing.name }}</li>
+        <li style="list-style: none; font-weight: bold; margin-top: 10px; color: darkblue;">{{ ing.name }}</li>
       {% else %}
         <li>{{ ing.name }}</li>
       {% endif %}
@@ -31,7 +31,7 @@ layout: default
   <h2 style="margin-top: 30px;">Шаги приготовления</h2>
   {% for step in page.steps %}
     <div class="step" style="margin-bottom: 30px; border-bottom: 1px solid #eaeaea; padding-bottom: 20px;">
-      <h3 style="margin-bottom: 10px; color: #002652;">Шаг {{ forloop.index }}</h3>
+      <h3 style="margin-bottom: 10px; color: darkblue;">Шаг {{ forloop.index }}</h3>
       <p style="line-height: 1.6; margin-bottom: 12px;">{{ step.description }}</p>
       {% if step.images.size > 0 %}
         <div class="step-images" style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
@@ -45,5 +45,5 @@ layout: default
     </div>
   {% endfor %}
   
-  <p style="margin-top: 30px;"><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: #0366d6; font-weight: bold;">← На главную к списку рецептов</a></p>
+  <p style="margin-top: 30px;"><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: darkblue; font-weight: bold;">← На главную к списку рецептов</a></p>
 </article>
