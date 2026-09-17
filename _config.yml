@@ -1,0 +1,9 @@
+title: Моя кулинарная книга
+description: Коллекция любимых домашних рецептов
+theme: minima
+markdown: kramdown
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:path/
