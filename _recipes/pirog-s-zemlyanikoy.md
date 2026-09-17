@@ -2,8 +2,8 @@
 layout: recipe
 title: "Пирог с земляникой"
 description: "Готовим летний земляничный пирог. Ягодки собраны в лесах Башкирии, очень пахучие и вкусные. Часть из них ушла на варенье, а часть на пирог к чаю."
-prep_time: "None"
-servings: "None"
+prep_time: ""
+servings: ""
 preview: "/assets/images/ccfdc4936d218f29.jpg"
 ingredients:
   - name: "1 пачка слоенное тесто бездрожжевое"

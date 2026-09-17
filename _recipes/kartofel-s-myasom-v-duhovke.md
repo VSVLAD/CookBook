@@ -2,8 +2,8 @@
 layout: recipe
 title: "Картофель с мясом в духовке"
 description: "Дежурный рецепт для духовки."
-prep_time: "None"
-servings: "None"
+prep_time: ""
+servings: ""
 preview: "/assets/images/73aa556bdcb0779a.jpg"
 ingredients:
   - name: "500 гр  кусочки свинины"

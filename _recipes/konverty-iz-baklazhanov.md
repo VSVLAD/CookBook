@@ -2,8 +2,8 @@
 layout: recipe
 title: "Конверты из баклажанов"
 description: "Жаренные баклажаны подаются как холодная закуска"
-prep_time: "None"
-servings: "None"
+prep_time: ""
+servings: ""
 preview: "/assets/images/fa88d0f4e923a79a.jpg"
 ingredients:
   - name: "2 шт. баклажан"

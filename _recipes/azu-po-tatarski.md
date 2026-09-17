@@ -3,7 +3,7 @@ layout: recipe
 title: "Азу по-татарски"
 description: "Когда картошка с мясом уже надоела и хочется чего-то особенного. Готовится много и сразу на всю неделю, кушается очень быстро =)"
 prep_time: "40 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/504ddbe2ad86cf1e.jpg"
 ingredients:
   - name: "600-800 грамм мяса (свинина)"

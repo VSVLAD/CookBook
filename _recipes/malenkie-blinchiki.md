@@ -3,7 +3,7 @@ layout: recipe
 title: "Маленькие блинчики"
 description: "Удобно кушать как оладьи, на вкус настоящие блины."
 prep_time: "40 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/7e6eec94455f91d2.jpg"
 ingredients:
   - name: "500 грамм кефира"

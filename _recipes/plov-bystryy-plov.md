@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Плов, быстрый плов"
-description: "None"
+description: ""
 prep_time: "45 минут"
 servings: "4 порции"
 preview: "/assets/images/10731385d1ce9b7e.jpg"

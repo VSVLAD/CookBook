@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: "Творожная запеканка"
-description: "None"
+description: ""
 prep_time: "45 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/3a3b410560d023c9.jpg"
 ingredients:
   - name: "600 грамм творога"

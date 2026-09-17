@@ -3,7 +3,7 @@ layout: recipe
 title: "Салат Румынский"
 description: "Рецепт получен от знакомых с небольшой доработкой. Сытный и быстро готовится. Используем в качестве гарнира к горячему блюду"
 prep_time: "30 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/6371d6d549004c19.jpg"
 ingredients:
   - name: "Основа"

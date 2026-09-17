@@ -3,7 +3,7 @@ layout: recipe
 title: "Шаурма домашняя"
 description: "Для большой компании, выгодно приготовить дома свою шаурму с теми ингредиентами что мы любим"
 prep_time: "40 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/ddc9d6897a9b3c37.jpg"
 ingredients:
   - name: "Основа"

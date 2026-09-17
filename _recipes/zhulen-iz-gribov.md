@@ -3,7 +3,7 @@ layout: recipe
 title: "Жульен из грибов"
 description: "Очень простой и сытный обед. Ниже представлено 2 версии: в сковороде и в кокотницах"
 prep_time: "40 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/1cfa09c64954f761.jpg"
 ingredients:
   - name: "500-800 грамм шампиньонов"

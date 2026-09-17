@@ -2,8 +2,8 @@
 layout: recipe
 title: "Рулет с маком, медом и орехами"
 description: "Очень быстрый по приготовлению и очень вкусный. Кушается ещё быстрее, особенно голодными гостями 😊"
-prep_time: "None"
-servings: "None"
+prep_time: ""
+servings: ""
 preview: "/assets/images/9758b28b25d81b0b.jpg"
 ingredients:
   - name: "Основа"

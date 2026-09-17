@@ -2,8 +2,8 @@
 layout: recipe
 title: "Вяленые помидоры"
 description: "С появлением сушилки для фруктов и овощей в меню добавились полезные и вкусные рецепты. Сейчас будем сушить томаты."
-prep_time: "None"
-servings: "None"
+prep_time: ""
+servings: ""
 preview: "/assets/images/f77a052b347016e9.jpg"
 ingredients:
   - name: "5-10 шт помидоры (сливки)"

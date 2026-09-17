@@ -2,8 +2,8 @@
 layout: recipe
 title: "Икра из баклажанов (соте)"
 description: "Моя любимая летняя закуска. Летом хорошо много вкусных розовых помидорок, баклажаны стоят очень дёшево и можно наготовить целую сковороду. Отлично идёт как добавка к картофельному пюре"
-prep_time: "None"
-servings: "None"
+prep_time: ""
+servings: ""
 preview: "/assets/images/d65e05804ec8b8dc.jpg"
 ingredients:
   - name: "3-4 шт баклажан"

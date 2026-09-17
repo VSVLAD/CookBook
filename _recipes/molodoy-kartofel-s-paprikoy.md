@@ -3,7 +3,7 @@ layout: recipe
 title: "Молодой картофель с паприкой"
 description: "Очередная ленивая еда: жаренный картофель и мяско на противени. Чистить картофель не надо, мясо резать тоже. Когда дел много, а вкусности сами готовятся"
 prep_time: "1 час"
-servings: "None"
+servings: ""
 preview: "/assets/images/9722788f1ecfcd97.jpg"
 ingredients:
   - name: "1 кг куриные голени"

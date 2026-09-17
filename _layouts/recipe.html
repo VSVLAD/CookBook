@@ -31,7 +31,7 @@ layout: default
   <h2 style="margin-top: 30px;">Шаги приготовления</h2>
   {% for step in page.steps %}
     <div class="step" style="margin-bottom: 30px; border-bottom: 1px solid #eaeaea; padding-bottom: 20px;">
-      <h3 style="margin-bottom: 10px; color: #0366d6;">Шаг {{ forloop.index }}</h3>
+      <h3 style="margin-bottom: 10px; color: #002652;">Шаг {{ forloop.index }}</h3>
       <p style="line-height: 1.6; margin-bottom: 12px;">{{ step.description }}</p>
       {% if step.images.size > 0 %}
         <div class="step-images" style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px;">

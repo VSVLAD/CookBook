@@ -3,7 +3,7 @@ layout: recipe
 title: "Картофельная запеканка"
 description: "Когда хочется вкусноту, но лень готовить сложное блюдо"
 prep_time: "60 минут"
-servings: "None"
+servings: ""
 preview: "/assets/images/4ce6e5042a6c17ef.jpg"
 ingredients:
   - name: "Основа"

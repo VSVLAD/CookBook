@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: "Овощи с мясом в духовке"
-description: "None"
-prep_time: "None"
-servings: "None"
+description: ""
+prep_time: ""
+servings: ""
 preview: "/assets/images/bdb3d7ea5ca650ab.jpg"
 ingredients:
   - name: "4-5 шт, картофель"
