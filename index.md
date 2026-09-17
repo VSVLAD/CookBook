@@ -9,7 +9,7 @@ title: Каталог рецептов
 
 <ul id="recipe-list" style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 15px;">
   {% for recipe in site.recipes %}
-    <li class="recipe-item" data-title="{{ recipe.title | downcase }}" data-desc="{{ recipe.description | downcase }}" style="border: 1px solid #eaeaea; border-radius: 8px; background: #fff; overflow: hidden; transition: box-shadow 0.2s;">
+    <li class="recipe-item" data-title="{{ recipe.title | downcase | xml_escape }}" data-desc="{{ recipe.description | downcase | xml_escape }}" style="border: 1px solid #eaeaea; border-radius: 8px; background: #fff; overflow: hidden; transition: box-shadow 0.2s;">
       <a href="{{ recipe.url | relative_url }}" style="display: flex; text-decoration: none; color: inherit; align-items: stretch;">
         {% if recipe.preview %}
           <div style="width: 160px; min-width: 160px; height: 120px; overflow: hidden; background: #f0f0f0;">
