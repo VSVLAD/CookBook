@@ -15,11 +15,11 @@ title: Каталог рецептов
     <div class="col recipe-item" data-title="{{ recipe.title | downcase | xml_escape }}" data-desc="{{ recipe.description | downcase | xml_escape }}">
       <div class="card h-100 shadow-sm">
         {% if recipe.preview %}
-          <div style="height: 180px; overflow: hidden; background: #f8f9fa;">
+          <div style="height: 180px; overflow: hidden;">
             <img src="{{ recipe.preview | relative_url }}" class="card-img-top w-100 h-100" style="object-fit: cover;" alt="{{ recipe.title | downcase | xml_escape }}">
           </div>
         {% else %}
-          <div style="height: 180px; background: #e9ecef;" class="d-flex align-items-center justify-content: center text-muted">Нет фото</div>
+          <div style="height: 180px;" class="d-flex align-items-center justify-content: center text-muted">Нет фото</div>
         {% endif %}
         <div class="card-body d-flex flex-column">
           <h5 class="card-title text-dark">{{ recipe.title | xml_escape }}</h5>
