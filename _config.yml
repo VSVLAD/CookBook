@@ -1,6 +1,5 @@
 title: Моя кулинарная книга
 description: Коллекция любимых домашних рецептов
-theme: jekyll-theme-slate
 markdown: kramdown
 
 collections:
