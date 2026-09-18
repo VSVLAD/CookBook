@@ -7,7 +7,7 @@ description: 'Никогда не пробовал лисички. Пробов�
   отличается от промышленных грибов, особенно вкусный и приятный 😊'
 prep_time: 1 час
 servings: 6-8 порций
-preview: /assets/images/e96550cd3f81258d.jpg
+preview: /assets/images/zharenaya-kartoshka-s-lisichkami-preview.jpg
 ingredients:
 - name: 5-6 шт картофель
   isHead: false
@@ -22,31 +22,31 @@ steps:
   description: Купленные лисички в супермаркете надо вымыть в проточной воде. Большие
     грибы можно порезать на половинки, маленькие можно использовать целыми.
   images:
-  - /assets/images/dbaff3b9689beead.jpg
+  - /assets/images/zharenaya-kartoshka-s-lisichkami-step-1-1.jpg
 - name: Шаг 2
   description: Чистим и нарезаем лук.
   images:
-  - /assets/images/98a9d9f528222d7b.jpg
+  - /assets/images/zharenaya-kartoshka-s-lisichkami-step-2-1.jpg
 - name: Шаг 3
   description: Обжариваем лук в растительном масле 2-3 минуты до золотистого цвета.
   images:
-  - /assets/images/154714107685178d.jpg
+  - /assets/images/zharenaya-kartoshka-s-lisichkami-step-3-1.jpg
 - name: Шаг 4
   description: Добавляем в сковороду грибы и под крышкой немного протушим, около 5
     минут. Далее снимаем крышку и ждём пока влага выпарится, временами перемешивая
     лопаткой. После грибы с луком переложим в другую посуду.
   images:
-  - /assets/images/418f2871acaf5e91.jpg
+  - /assets/images/zharenaya-kartoshka-s-lisichkami-step-4-1.jpg
 - name: Шаг 5
   description: Нарезаем картофель как вам нравится, в моём случае это полукольца.
     Перчим и солим, добавляем немного масла ещё и жарим под крышкой.
   images:
-  - /assets/images/94cd3002163777de.jpg
+  - /assets/images/zharenaya-kartoshka-s-lisichkami-step-5-1.jpg
 - name: Шаг 6
   description: Когда картофель будет готов (берём кусочек самой белой картофелины
     и пробуем на вкус, если она готова, значит и другие кусочки уже готовы), добавляем
     раннее обжаренные грибы с луком. Готово, можно выключать огонь и звать гостей
     к столу. 🍄🍄🍄
   images:
-  - /assets/images/698f7ab1e9eca17d.jpg
+  - /assets/images/zharenaya-kartoshka-s-lisichkami-step-6-1.jpg
 ---

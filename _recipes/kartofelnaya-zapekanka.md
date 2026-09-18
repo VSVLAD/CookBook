@@ -4,7 +4,7 @@ title: Картофельная запеканка
 description: Когда хочется вкусноту, но лень готовить сложное блюдо
 prep_time: 60 минут
 servings: ''
-preview: /assets/images/4ce6e5042a6c17ef.jpg
+preview: /assets/images/kartofelnaya-zapekanka-preview.jpg
 ingredients:
 - name: Основа
   isHead: true
@@ -29,33 +29,33 @@ steps:
     добавленного растительного масла. Лук, морковь, помидоры также отправляются в
     след за фаршем. Перчим и солим по вкусу
   images:
-  - /assets/images/c009d4f2d0b02851.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-1-1.jpg
 - name: Шаг 2
   description: Когда картофель сварится и будет распадаться, сливаем воду и картофель
     разминаем в пюре, без добавления жидкостей (вода/молоко)
   images:
-  - /assets/images/4ff7dabcc48678c5.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-2-1.jpg
 - name: Шаг 3
   description: В сковороду или форму выкладываем первый слой пюре, 2/3 от всей массы.
     Лопаткой или ложкой делаем ровную поверхность. Далее выкладываем фарш с овощами
   images:
-  - /assets/images/d9ef0e7a98bccd9c.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-3-1.jpg
 - name: Шаг 4
   description: Остаток пюре выкладываем сверху шапкой и приминаем лопаткой
   images:
-  - /assets/images/9482292c50d265c3.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-4-1.jpg
 - name: Шаг 5
   description: При желании запеканку обмазываем сметаной для придания румяной корочки
   images:
-  - /assets/images/e584188391fbf6e9.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-5-1.jpg
 - name: Шаг 6
   description: Отправляем в духовку на 30 минут, температура 210-180 градусов. Время
     условное, наблюдаем как появится корочка, можно вытаскивать из печи
   images:
-  - /assets/images/1895b4be2d0ea614.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-6-1.jpg
 - name: Шаг 7
   description: Даём остыть запеканке. После, рекомендую поставить в холодильник, тогда
     её можно будет резать как пирог на порционные треугольники и она не распадётся
   images:
-  - /assets/images/c516673a6705736e.jpg
+  - /assets/images/kartofelnaya-zapekanka-step-7-1.jpg
 ---

@@ -4,7 +4,7 @@ title: Картофель с мясом в духовке
 description: Дежурный рецепт для духовки.
 prep_time: ''
 servings: ''
-preview: /assets/images/73aa556bdcb0779a.jpg
+preview: /assets/images/kartofel-s-myasom-v-duhovke-preview.jpg
 ingredients:
 - name: 500 гр  кусочки свинины
   isHead: false
@@ -24,22 +24,22 @@ steps:
     тем быстрее пропечется. Грибы нарезаем на плоские крупные части. Добавляем кусочки
     мяса. Солим и перчим. Добавляем немного майонеза и перемешиваем смесь.
   images:
-  - /assets/images/1f248f1453a50a69.jpg
+  - /assets/images/kartofel-s-myasom-v-duhovke-step-1-1.jpg
 - name: Шаг 2
   description: На дно противня совсем немного добавляем растительного масла и выкладываем
     картофельно-мясную основу. Сверху кладем порезанные на мелкие кружочки помидоры.
   images:
-  - /assets/images/e4022536c2244a46.jpg
+  - /assets/images/kartofel-s-myasom-v-duhovke-step-2-1.jpg
 - name: Шаг 3
   description: Отправляем в духовку под 180 градусов на 40 минут. Т.к. я люблю поджаристое
     мясо, то необходимо подождать пока влага из помидорок и грибов выпарится, тогда
     мясо начнёт жариться более эффективно.
   images:
-  - /assets/images/193ea10f9c79aecd.jpg
+  - /assets/images/kartofel-s-myasom-v-duhovke-step-3-1.jpg
 - name: Шаг 4
   description: 'Пока противень был в духовке, делаем очень быстрый салат: в магазинах
     продаётся уже готовая отварная порезанная соломкой свекла, которую осталось смешать
     с майонезом. Ужин готов.'
   images:
-  - /assets/images/e06c2de93588a580.jpg
+  - /assets/images/kartofel-s-myasom-v-duhovke-step-4-1.jpg
 ---

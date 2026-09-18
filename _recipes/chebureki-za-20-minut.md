@@ -5,7 +5,7 @@ description: Как быстро приготовить чебуреки, при
   🐄🐄🐄 и без лишних ароматизаторов и консервантов
 prep_time: 20-30 мин
 servings: 8 шт
-preview: /assets/images/f1b160a73c00e699.jpg
+preview: /assets/images/chebureki-za-20-minut-preview.jpg
 ingredients:
 - name: 400 грамм  готовый фарш "мраморная говядина"
   isHead: false
@@ -19,34 +19,34 @@ steps:
     ингредиентов. Достаем тесто и ждём немного пока разморозится при комнатной температуре.
     Фарш солим и перчим по вкусу, перемешиваем.
   images:
-  - /assets/images/e7984f0a7cde3064.jpg
+  - /assets/images/chebureki-za-20-minut-step-1-1.jpg
 - name: Шаг 2
   description: Достаем кружок теста и выкладываем на него начинку. Смачиваем водой
     палец и проводим вокруг, по всему краю теста.
   images:
-  - /assets/images/63cc5ccb36b8fe1a.jpg
+  - /assets/images/chebureki-za-20-minut-step-2-1.jpg
 - name: Шаг 3
   description: Далее накрываем начинку как на фото и пальцами хорошо надавливаем на
     края, чтобы тесто схватилось и края залепились. С тестом удобно работать, дополнительно
     мука не потребуется.
   images:
-  - /assets/images/3df2f4f3f44e8270.jpg
+  - /assets/images/chebureki-za-20-minut-step-3-1.jpg
 - name: Шаг 4
   description: На разогретую сковороду с большим количеством масла выкладываем чебуреки
     и жарим на среднем огне. Накрываем крышкой, чтобы температура повысилась, да и
     масло не разбрызгивалось. Жарим около 4 мин с каждой стороны, наблюдаем за цветом
     корочки, если слишком тёмная будет, убавляем огонь.
   images:
-  - /assets/images/e3dc785884c74120.jpg
+  - /assets/images/chebureki-za-20-minut-step-4-1.jpg
 - name: Шаг 5
   description: Спустя 1,5-2 минуты чебуречки красивеют, но мясо ещё не готово.
   images:
-  - /assets/images/e7dbd3540e51ab8e.jpg
+  - /assets/images/chebureki-za-20-minut-step-5-1.jpg
 - name: Шаг 6
   description: Одна сторона готова, переворачиваем и дожариваем другую. Мясо говядины
     получилось сочным, тесто хрустящим и иногда сок пытался вытечь и сковорода с маслом
     шумела, это дополнительно будет показателем, что пора бы чебуреки снимать 😊 Рекомендую
     добавить сметану к чебуречкам, с ней ещё вкуснее.
   images:
-  - /assets/images/3be34b40ebc817b1.jpg
+  - /assets/images/chebureki-za-20-minut-step-6-1.jpg
 ---

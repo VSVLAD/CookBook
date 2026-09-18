@@ -5,7 +5,7 @@ description: Для самый начинающих поваров. Чтобы �
   красивым фотогеничным бутербродиком 😄
 prep_time: 12 минут
 servings: 2 порции
-preview: /assets/images/57b024f1af270e50.jpg
+preview: /assets/images/buterbrodik-gril-preview.jpg
 ingredients:
 - name: Колбаса варенная
   isHead: false
@@ -23,13 +23,13 @@ steps:
     колбасы. Для лучшего эффекта, лопаткой немного их прижимаем и жарим с обеих сторон
     до образования "аппетитных" полосок.
   images:
-  - /assets/images/4d40f112df99ec7b.jpg
-  - /assets/images/fd5f5ca3e859b8d5.jpg
+  - /assets/images/buterbrodik-gril-step-1-1.jpg
+  - /assets/images/buterbrodik-gril-step-1-2.jpg
 - name: Шаг 2
   description: На кусочки черного хлеба выкладываем колбасу, пласт сыра и кольцо помидора.
     Отправляем такой сендвич или в духовку или микроволновку в режиме "гриль" на 5
     минут, пока сыр не начнёт плавится. Украшаем сверху капелькой майонезки. Завтрак
     готов.
   images:
-  - /assets/images/f5e0200da5e4b7f4.jpg
+  - /assets/images/buterbrodik-gril-step-2-1.jpg
 ---

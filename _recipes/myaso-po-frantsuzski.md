@@ -5,7 +5,7 @@ description: Новое дежурное блюдо на неделю. Перв�
   мультиварки, но на противне в духовке тоже удачно получается и порций больше 😋
 prep_time: 1 ч. 30 мин.
 servings: 8 порций
-preview: /assets/images/c70a690f5cbe0547.jpg
+preview: /assets/images/myaso-po-frantsuzski-preview.jpg
 ingredients:
 - name: 700 грамм,  свинина
   isHead: false
@@ -31,33 +31,33 @@ steps:
     налить растительное масло и кисточкой распределить по всей поверхности. Лук нарезать
     кольцами и положить поверх мяса.
   images:
-  - /assets/images/9a355f2350f709be.jpg
+  - /assets/images/myaso-po-frantsuzski-step-1-1.jpg
 - name: Шаг 2
   description: Картофель нарезать кольцами толщиной 0.3-0.4 см. Слайсы картофеля разложить
     поверх мяса. Помидор нарезать кольцами и разложить поверх картофеля.
   images:
-  - /assets/images/10b0b3d12b43dd9f.jpg
+  - /assets/images/myaso-po-frantsuzski-step-2-1.jpg
 - name: Шаг 3
   description: Сыр натереть на крупной тёрке. Можно использовать различные сыры, которые
     плавятся в духовке.
   images:
-  - /assets/images/3cdebf3d12a1254f.jpg
+  - /assets/images/myaso-po-frantsuzski-step-3-1.jpg
 - name: Шаг 4
   description: В отдельной миске смешиваем 3 яйца, молоко и майонез до однородной
     массы. Можно или вилкой или блендером взбить. Наливаем поверх сырной шапки и распределяем
     соус кисточкой. Промазываем все участки с картофелем и помидорами
   images:
-  - /assets/images/958034dc8cc3c3f2.jpg
+  - /assets/images/myaso-po-frantsuzski-step-4-1.jpg
 - name: Шаг 5
   description: Отправляем противень в духовку на 50-60 минут при температуре 180°С.
     В зависимости от духовки, необходимо следить, чтобы шапочка не подгорела и включать
     или выключать верхний/нижний тен. В моём случае один противень потемнел, но на
     вкус это не повлияло.
   images:
-  - /assets/images/cf669630bdd986f7.jpg
+  - /assets/images/myaso-po-frantsuzski-step-5-1.jpg
 - name: Шаг 6
   description: Если картофель будет готов, проверяя вилкой, то можно чуть раньше завершить
     готовку. Пахнет очень вкусно во время приготовления, рекомендую 😋😊
   images:
-  - /assets/images/aa5440f6ecdfe92f.jpg
+  - /assets/images/myaso-po-frantsuzski-step-6-1.jpg
 ---

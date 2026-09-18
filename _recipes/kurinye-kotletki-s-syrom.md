@@ -6,7 +6,7 @@ description: Почти диетическая версия котлет, не �
   гречку.
 prep_time: 1 час
 servings: 10 штук
-preview: /assets/images/386774ec3efa7114.jpg
+preview: /assets/images/kurinye-kotletki-s-syrom-preview.jpg
 ingredients:
 - name: 1 кг куриные грудки
   isHead: false
@@ -25,12 +25,12 @@ steps:
   description: Нарезать филе на крупные кусочки и переработать в блендере на 10-15
     секунд, получается консистенция рубленного мяса.
   images:
-  - /assets/images/18599af476daf3de.jpg
+  - /assets/images/kurinye-kotletki-s-syrom-step-1-1.jpg
 - name: Шаг 2
   description: Мясо поперчить, яйца взбить вилкой или венчиком в глубокой тарелке.
   images:
-  - /assets/images/ebdbe0489d97918d.jpg
-  - /assets/images/2e3573ca8929356a.jpg
+  - /assets/images/kurinye-kotletki-s-syrom-step-2-1.jpg
+  - /assets/images/kurinye-kotletki-s-syrom-step-2-2.jpg
 - name: Шаг 3
   description: Взять в руку кусочек фарша, можно немного смочить ладонь водой, чтобы
     фарш был более податливый. Положить внутрь кусочек сыра и замять его внутрь, сформировав
@@ -38,14 +38,14 @@ steps:
     яичном кляре и снова в сухарях. Переносим котлетку на разогретую сковороду с большим
     количеством добавленного растительного масла.
   images:
-  - /assets/images/79309d8e0d7d7207.jpg
+  - /assets/images/kurinye-kotletki-s-syrom-step-3-1.jpg
 - name: Шаг 4
   description: Котлету жарим с 4 сторон под крышкой, примерно по 1,5 минуты с каждой
     стороны до тёмного цвета корочки.
   images:
-  - /assets/images/8160f0faab542504.jpg
+  - /assets/images/kurinye-kotletki-s-syrom-step-4-1.jpg
 - name: Шаг 5
   description: Котлетки готовы, осталось придумать вкусный гарнир и ужин готов.
   images:
-  - /assets/images/1946ccba40a88034.jpg
+  - /assets/images/kurinye-kotletki-s-syrom-step-5-1.jpg
 ---

@@ -6,7 +6,7 @@ description: Настоящий салат "еврейский" делается
   кушается быстро и не отягощает желудок
 prep_time: 30 минут
 servings: 6 порций
-preview: /assets/images/963f815f9d129017.jpg
+preview: /assets/images/lyogkiy-salat-evreyskiy-preview.jpg
 ingredients:
 - name: 400 грамм ветчина
   isHead: false
@@ -23,23 +23,23 @@ steps:
   description: Сыр, натрем на крупной тёрке. Желательно, чтобы он не был слишком соленый,
     а также не было выраженного сырного вкуса, иначе перебьет вкус остальных ингредиентов.
   images:
-  - /assets/images/d379cc174603276d.jpg
+  - /assets/images/lyogkiy-salat-evreyskiy-step-1-1.jpg
 - name: Шаг 2
   description: Ветчину нарезаем небольшими тонкими полосками. Также нарезаем огурец
     и отправляем всё к сыру.
   images:
-  - /assets/images/f043f7c1ddc594bc.jpg
-  - /assets/images/f4ae1feed0234f10.jpg
+  - /assets/images/lyogkiy-salat-evreyskiy-step-2-1.jpg
+  - /assets/images/lyogkiy-salat-evreyskiy-step-2-2.jpg
 - name: Шаг 3
   description: Выдавливаем в посуду 2 зубчика чеснока. Кто не боится остроты, может
     добавить ещё пару зубчиков.
   images:
-  - /assets/images/01d22e1ce57ef89e.jpg
+  - /assets/images/lyogkiy-salat-evreyskiy-step-3-1.jpg
 - name: Шаг 4
   description: Добавляем майонез на глаз. Чем меньше майонеза, тем более диетическим
     будет салат. Всё перемешиваем и убираем на часик в холодильник настояться. Ну
     или сразу накладываем по тарелкам, т.к. невозможно устоять, чтобы не попробовать
     😋
   images:
-  - /assets/images/41b726875ad18e69.jpg
+  - /assets/images/lyogkiy-salat-evreyskiy-step-4-1.jpg
 ---

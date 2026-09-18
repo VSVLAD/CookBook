@@ -5,7 +5,7 @@ description: С появлением сушилки для фруктов и о�
   и вкусные рецепты. Сейчас будем сушить томаты.
 prep_time: ''
 servings: ''
-preview: /assets/images/f77a052b347016e9.jpg
+preview: /assets/images/vyalenye-pomidory-preview.jpg
 ingredients:
 - name: 5-10 шт помидоры (сливки)
   isHead: false
@@ -17,11 +17,11 @@ steps:
     убираем мякоть, иначе сушить придётся дольше. Солим и перчим, но не надо сильно
     увлекаться, иначе можно пересолить, т.к. вода уйдёт и концентрация соли повысится.
   images:
-  - /assets/images/2fbf3af00ba695e7.jpg
+  - /assets/images/vyalenye-pomidory-step-1-1.jpg
 - name: Шаг 2
   description: Сушим при температуре 55° около 14-18 часов. Испортить сложно, раз
     в 4 часа можно понаблюдать как сушится. Первая партия съелась сразу, но в планах
     насушить ещё и с оливковым маслом сделать салат, говорят что ещё вкуснее 😊
   images:
-  - /assets/images/33815a670072de6f.jpg
+  - /assets/images/vyalenye-pomidory-step-2-1.jpg
 ---

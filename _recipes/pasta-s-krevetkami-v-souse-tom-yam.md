@@ -7,7 +7,7 @@ description: В табрисе (местный супермаркет на Ку�
   просто, а на вкус как том ям
 prep_time: 30 мин
 servings: 5-6 порций
-preview: /assets/images/44af2e1cb1502999.jpg
+preview: /assets/images/pasta-s-krevetkami-v-souse-tom-yam-preview.jpg
 ingredients:
 - name: 1 уп, готовая заправка Tom Yum для гарнира или аналог
   isHead: false
@@ -30,24 +30,24 @@ steps:
     но его там не так много. На самом деле наполнением может быть что угодно, хоть
     грибы обжаренные или куриная грудка.
   images:
-  - /assets/images/03aeae9311575c81.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-1-1.jpg
 - name: Шаг 2
   description: Обжариваем лук и морковь мелко нарезанные на растительном масле около
     2 минут и добавляем креветки. У меня они были уже отварные.
   images:
-  - /assets/images/a8d44790381b2684.jpg
-  - /assets/images/11fee466da433276.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-2-1.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-2-2.jpg
 - name: Шаг 3
   description: Добавляем к креветкам помидор или лучше половинки помидора черри и
     обжариваем помешивая около 3 минут.
   images:
-  - /assets/images/e1abeb0ffd3f741a.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-3-1.jpg
 - name: Шаг 4
   description: Добавляем соус из пачки и сливки. Доводим до кипения.
   images:
-  - /assets/images/3234d64311cc852f.jpg
-  - /assets/images/2be5527868b7502e.jpg
-  - /assets/images/6185b96f9efa3b04.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-4-1.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-4-2.jpg
+  - /assets/images/pasta-s-krevetkami-v-souse-tom-yam-step-4-3.jpg
 - name: Шаг 5
   description: Последним шагом добавляем заранее сваренные спагетти. Они могут вариться
     в кастрюле параллельно, пока мы занимаемся сковородой. Варить нужно столько, сколько

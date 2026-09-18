@@ -5,7 +5,7 @@ description: Довольно бюджетный и красивый вариа�
   у меня это просто ужин после работы 😋 Готовится просто, справится даже ребёнок
 prep_time: 45-60 минут
 servings: 4 шт
-preview: /assets/images/0bb1a3159b841eab.jpg
+preview: /assets/images/kartofelnye-lodochki-s-vetchinoy-preview.jpg
 ingredients:
 - name: 2 шт  картофель
   isHead: false
@@ -21,40 +21,40 @@ steps:
     Предварительно его хорошо моем, разрезаем вдоль на половинки и чайной ложкой пытаемся
     извлечь мякоть. Особо не усердствуем, чтобы дно не прохудилось
   images:
-  - /assets/images/e13ee1513ada07cd.jpg
-  - /assets/images/3e522515f39b17ad.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-1-1.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-1-2.jpg
 - name: Шаг 2
   description: Противень застилаем фольгой и смазываем растительным маслом. Половинки
     солим и перчим по вкусу и кладём на фольгу. Отправляем в духовку на 20 минут под
     180°. Проверяем готовность вилкой, пытаемся слегка насадить. Если будет легко
     входить, вынимаем противень из духовки, картофель готов
   images:
-  - /assets/images/3a1ee91fb322495a.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-2-1.jpg
 - name: Шаг 3
   description: Ветчину режем на мелкие кубики, трём сыр на мелкой тёрке. Ветчину смешиваем
     с майонезом и я для вкуса, добавил ещё горчицы. Можно для лёгкости, майонез смешать
     со сметаной, чтобы им не переборщить
   images:
-  - /assets/images/0d8747ce48843043.jpg
-  - /assets/images/8be365b000141e73.jpg
-  - /assets/images/bf602b05c1a40650.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-3-1.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-3-2.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-3-3.jpg
 - name: Шаг 4
   description: Картофель заправляем ветчиной и в конце посыпаем тёртым сыром. Можно
     даже рукой прижать, чтобы хорошо держался на лодочке
   images:
-  - /assets/images/3c2b400a3df9f055.jpg
-  - /assets/images/6bc0a51c9e4b8260.jpg
-  - /assets/images/b192df8daeb08779.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-4-1.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-4-2.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-4-3.jpg
 - name: Шаг 5
   description: Отправляемся в духовку на минут 10 также под 180°, пока не расплавится
     сыр. При желании можно украсить рубленой зеленью
   images:
-  - /assets/images/1af1e7f0c77ebecc.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-5-1.jpg
 - name: Шаг 6
   description: Вкусные лодочки готовы, можно кушать 😊 некоторые мяукающие, уже требуют
     вкусностей
   images:
-  - /assets/images/e85adae5ab06620b.jpg
-  - /assets/images/b8443f138d42e5c6.jpg
-  - /assets/images/9cf73aece3e1c9b0.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-6-1.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-6-2.jpg
+  - /assets/images/kartofelnye-lodochki-s-vetchinoy-step-6-3.jpg
 ---

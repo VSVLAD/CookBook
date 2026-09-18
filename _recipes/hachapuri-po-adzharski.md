@@ -7,7 +7,7 @@ description: Моя первая версия хачапури в виде ло�
   году. Дело помню было не быстрое и старался не запартачить
 prep_time: 160 минут
 servings: ''
-preview: /assets/images/c4ff64ae3b3abac7.jpg
+preview: /assets/images/hachapuri-po-adzharski-preview.jpg
 ingredients:
 - name: Тесто
   isHead: true
@@ -38,13 +38,13 @@ steps:
     тянуться за рукой, но не прилипать к ней. Вымешивается всё минут 15 и оставляется
     в теплом месте, лучше минут на 30 минут, чтобы дрожжи поработали и подняли тесто
   images:
-  - /assets/images/4b056bf1ab800540.jpg
+  - /assets/images/hachapuri-po-adzharski-step-1-1.jpg
 - name: Шаг 2
   description: Тесто после отдыха, необходимо помять в руках ещё и выложить на стол
     присыпаный мукой. Скалкой (лучше конечно же руками) раскатываем его до прямоугольника.
     Оба края начинаем складывать трубочкой к центру, края защипываем и формируем лодочку.
   images:
-  - /assets/images/ee4ecbed0d69f10f.jpg
+  - /assets/images/hachapuri-po-adzharski-step-2-1.jpg
 - name: Шаг 3
   description: 'Пока тесто отдыхало, делали начинку: сыры (или один сыр, если другого
     нет, желательно моцареллу для пиццы) трём на крупной тёрке, добавляем щепотку
@@ -53,8 +53,8 @@ steps:
     для выкладывания в лодочку. "Бортики" у меня без сыра, Вы же можете при скручивания
     теста, добавить начинку и в "борта лодочки".'
   images:
-  - /assets/images/bfb5087f7ae693bf.jpg
-  - /assets/images/7a7fbdcfba2c85a3.jpg
+  - /assets/images/hachapuri-po-adzharski-step-3-1.jpg
+  - /assets/images/hachapuri-po-adzharski-step-3-2.jpg
 - name: Шаг 4
   description: Хачапури лучше выпекать на пергаментной бумаге или на противени присыпаного
     мукой. В духовке выставляю температуру на 210° и отправляю минут на 10-15, наблюдаем
@@ -64,5 +64,5 @@ steps:
     сливочного масла и сразу приступить к чаепитию. Они самые вкусные, когда из печи
     только
   images:
-  - /assets/images/cd4ba6321fe0a3db.jpg
+  - /assets/images/hachapuri-po-adzharski-step-4-1.jpg
 ---

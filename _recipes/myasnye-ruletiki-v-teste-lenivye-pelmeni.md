@@ -7,7 +7,7 @@ description: Другое название блюда это крученики.
   ещё добавляю чуть уксуса, очень вкусно. 😋
 prep_time: 1 час 30 минут
 servings: 4 порции
-preview: /assets/images/31e161d4addf0a07.jpg
+preview: /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-preview.jpg
 ingredients:
 - name: Тесто
   isHead: true
@@ -37,38 +37,38 @@ steps:
     по завершении которой получается аккуратный шарик теста. В рецепте указаны точные
     граммовки.
   images:
-  - /assets/images/6fed1eba92480d27.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-1-1.jpg
 - name: Шаг 2
   description: Тесто раскатываем в пласт. Он будет потолще чем у пельменей.
   images:
-  - /assets/images/ab4129afac504ef0.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-2-1.jpg
 - name: Шаг 3
   description: Распределяем по всему тесту фарш. Если фарша недостаточно, то лучше
     конечно же лишнее тесто отрезать. Сверху фарша я положил красный лук измельчённый
     в блендере. Я думаю если лук предварительно обжарить, будет ещё вкуснее.
   images:
-  - /assets/images/c9c68f04bd688c6a.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-3-1.jpg
 - name: Шаг 4
   description: Сворачиваем тесто в рулет.
   images:
-  - /assets/images/22c2660a1044e843.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-4-1.jpg
 - name: Шаг 5
   description: Нарезаем рулет на шайбочки толщиной в 3-4 см и выкладываем на разогретую
     с маслом сковороду.
   images:
-  - /assets/images/7f92d28c87dcfb07.jpg
-  - /assets/images/8d39557dfd6894be.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-5-1.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-5-2.jpg
 - name: Шаг 6
   description: Каждую сторону обжариваем около 1.5-2 минуты, чтобы схватились корочкой.
   images:
-  - /assets/images/462766103ac164f8.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-6-1.jpg
 - name: Шаг 7
   description: Перекладываем рулеты в форму для запекания и сверху добавляем натертую
     морковь и томат пасту или протёртые помидоры. Добавляем обычную воду и заливаем,
     чтобы она покрыла рулеты.
   images:
-  - /assets/images/5f8591684d69bcfd.jpg
-  - /assets/images/2d5497ae406148bc.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-7-1.jpg
+  - /assets/images/myasnye-ruletiki-v-teste-lenivye-pelmeni-step-7-2.jpg
 - name: Шаг 8
   description: Рулеты отправляем в духовку на 40-45 минут под 180°. После готовки
     оставляем рулеты остывать в форме, при этом вся жидкость впитается в них и они

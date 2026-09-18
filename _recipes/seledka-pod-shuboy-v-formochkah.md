@@ -7,7 +7,7 @@ description: Всем известный салат становится ещё 
   салата и формочки)
 prep_time: 1 час
 servings: 8 порций
-preview: /assets/images/1a9c7790b90be05f.jpg
+preview: /assets/images/seledka-pod-shuboy-v-formochkah-preview.jpg
 ingredients:
 - name: 250 гр филе сельди (пресервы)
   isHead: false
@@ -30,46 +30,46 @@ steps:
     через дуршлаг. А с пресервов я слил заливку и рыбку на бумажном полотенце оставил,
     чтобы излишки масла впитались.
   images:
-  - /assets/images/909f80004f47f708.jpg
-  - /assets/images/40053bed95040988.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-1-1.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-1-2.jpg
 - name: Шаг 2
   description: Первый слой это картофель, чайной ложкой приминаем ко дну, разравниваем,
     далее капельку майонеза и вторым слоем добавляем нарезанную рыбу. Также ложкой
     разравниваем по всей поверхности.
   images:
-  - /assets/images/c4dd2c9f8c000829.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-2-1.jpg
 - name: Шаг 3
   description: Третьим слоем идёт мелко нашинкованный лук. Я его переработал в блендере
     до такой консистенции.
   images:
-  - /assets/images/840185ad75bf7366.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-3-1.jpg
 - name: Шаг 4
   description: Добавляем майонез и чайной ложкой разравниваем.
   images:
-  - /assets/images/02dd1861eb9eea13.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-4-1.jpg
 - name: Шаг 5
   description: Четвертым слоем кладём морковь.
   images:
-  - /assets/images/8eef947fe775ad28.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-5-1.jpg
 - name: Шаг 6
   description: Также промазываем хорошо майонезиком. Не забываем прижимать сверху,
     чтобы салат форму держал. Если будет влага лишняя просачиваться, то собираем салфетками
     с блюда.
   images:
-  - /assets/images/033d951928ed99b8.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-6-1.jpg
 - name: Шаг 7
   description: Пятым слоем я добавляю свеклу на мелкой тёрке. Я предварительно свеклу
     смешал с майонезом в тарелке, чтобы удобнее было собирать салат в форме и не приходилось
     долго его разравнивать. Свеклу я люблю, поэтому кладу побольше. Ложкой формируем
     конус.
   images:
-  - /assets/images/d098c00d805ae66a.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-7-1.jpg
 - name: Шаг 8
   description: Осталось украсить зеленью и можно готовить салат к фотосессии 😋 либо
     же звать гостей к пиршеству. Вообще и кушать уже перехотелось, пока потратил столько
     времени на всё про всё 😄
   images:
-  - /assets/images/a225ae3cfbc5d980.jpg
-  - /assets/images/d9a7040f4fa29e0c.jpg
-  - /assets/images/e0164c55d283c955.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-8-1.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-8-2.jpg
+  - /assets/images/seledka-pod-shuboy-v-formochkah-step-8-3.jpg
 ---

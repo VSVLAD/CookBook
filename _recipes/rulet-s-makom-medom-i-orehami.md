@@ -5,7 +5,7 @@ description: Очень быстрый по приготовлению и оче
   особенно голодными гостями 😊
 prep_time: ''
 servings: ''
-preview: /assets/images/9758b28b25d81b0b.jpg
+preview: /assets/images/rulet-s-makom-medom-i-orehami-preview.jpg
 ingredients:
 - name: Основа
   isHead: true
@@ -25,28 +25,28 @@ steps:
     нужно заливать смесь, туда же идёт мёд и перемолотые в блендере грецкие орехи.
     Перемешиваем смесь и ждём пока она немного набухнет.
   images:
-  - /assets/images/7b4c7013452d1289.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-1-1.jpg
 - name: Шаг 2
   description: Обычное покупное слоёное дрожжевое тесто стараемся раскатать в прямоугольник.
     На половину (в зависимости от толщины слоя начинки) ложкой выкладываем орехово-маковую
     смесь. Далее формируем рулет сворачивая тесто колбаской.
   images:
-  - /assets/images/d28ddda7f6369b0b.jpg
-  - /assets/images/1b73c870a99ebd1b.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-2-1.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-2-2.jpg
 - name: Шаг 3
   description: 'Одной упаковки теста (2 листа) как раз хватает на 1 пачку начинки.
     Я делал 2 раза рулеты: один раз смазывал желтком яйца, второй раз нет. Если хотите
     красоту, то яйцом лучше смазать за 10 минут до готовности.'
   images:
-  - /assets/images/0ec41fc3cb16f427.jpg
-  - /assets/images/b359ebf0b7dd5ac7.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-3-1.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-3-2.jpg
 - name: Шаг 4
   description: Рулеты кладём на противень, застеленный пергаментной бумагой. Немного
     бумагу смазал растительным маслом. Отправляем рулеты в печь на 30 минут при температуре
     180°. Светлые рулеты это без яйца, темнее смазанные желтком. По вкусу оба объедение
     😋
   images:
-  - /assets/images/0f0a806c5f782e17.jpg
-  - /assets/images/5fd593b107ec7ef8.jpg
-  - /assets/images/67ae2aa54cf6ce68.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-4-1.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-4-2.jpg
+  - /assets/images/rulet-s-makom-medom-i-orehami-step-4-3.jpg
 ---

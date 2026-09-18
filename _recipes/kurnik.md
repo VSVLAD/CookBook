@@ -6,7 +6,7 @@ description: Почти что татарская версия зур-белиш
   относительно долго, но результат порадует =)
 prep_time: 3 часа
 servings: ''
-preview: /assets/images/a7a3815b29ff0384.jpg
+preview: /assets/images/kurnik-preview.jpg
 ingredients:
 - name: Тесто
   isHead: true
@@ -34,7 +34,7 @@ steps:
     уменьшив соответственно время. После отлежки, тесто делим на 2/3 на основу и 1/3
     на крышку пирога
   images:
-  - /assets/images/6f031c9631ea8567.jpg
+  - /assets/images/kurnik-step-1-1.jpg
 - name: Шаг 2
   description: Картофель очищаем и режем кубиками, мясо лучше взять пожирнее. Из куриного
     филе будет не очень и пирог может быть сухим, в этом случае можно добавить сливочного
@@ -42,16 +42,16 @@ steps:
     и перцем. Тесто раскатываем в круг больше диаметра сковороды и выкладываем его
     на дно. Наполняем пирог начинкой
   images:
-  - /assets/images/3d0142eaecf54be7.jpg
+  - /assets/images/kurnik-step-2-1.jpg
 - name: Шаг 3
   description: Раскатываем остаток теста и закрываем пирог, края защипываем. Пирог
     ставим в разогретую духовку под 180° на 1 час
   images:
-  - /assets/images/99ceb9f52ad50c34.jpg
+  - /assets/images/kurnik-step-3-1.jpg
 - name: Шаг 4
   description: Итог вас обязательно порадует. Сначала в ход идёт начинка, после отламываем
     кусочек с тестом и кушаем хрустящую корочку с чаем 😋
   images:
-  - /assets/images/378990ec33220bdc.jpg
-  - /assets/images/84124cb5aabbf6b8.jpg
+  - /assets/images/kurnik-step-4-1.jpg
+  - /assets/images/kurnik-step-4-2.jpg
 ---

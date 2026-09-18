@@ -6,7 +6,7 @@ description: Если собираются много друзей можно у
   только собрать всё в кучу и заправить соусом.
 prep_time: 15 минут
 servings: 3 порции
-preview: /assets/images/123436f69049b4bf.jpg
+preview: /assets/images/roll-junior-iz-kfc-preview.jpg
 ingredients:
 - name: Основа
   isHead: true
@@ -34,17 +34,17 @@ steps:
     Если горчица острая, можно уменьшить количество. Смазываем обильно основу - пшеничный
     ролл соусом и выкладываем порезанные помидоры, лист салата и стрипс.
   images:
-  - /assets/images/ffe802833932c565.jpg
+  - /assets/images/roll-junior-iz-kfc-step-1-1.jpg
 - name: Шаг 2
   description: Блюдо было экспериментальным, поэтому увеличивал количество ингредиентов
     для остальных роллов и не прогадал. Чем больше помидорок, тем сочнее и насыщеннее
     вкус соуса.
   images:
-  - /assets/images/598523303125a8d6.jpg
+  - /assets/images/roll-junior-iz-kfc-step-2-1.jpg
 - name: Шаг 3
   description: Ролл сворачиваем как вам удобно. Я сделал в форме конвертика и прогрел
     по 1 минуте с каждой стороны на сухой разогретой сковороде гриль. На роллах появились
     аппетитные полоски и конвертик был готов к употреблению. 😊
   images:
-  - /assets/images/e525d8f05e36b5f1.jpg
+  - /assets/images/roll-junior-iz-kfc-step-3-1.jpg
 ---

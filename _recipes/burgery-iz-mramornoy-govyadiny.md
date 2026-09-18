@@ -6,7 +6,7 @@ description: Домашние бургерочки очень вкусные, ч
   покупать в таком количестве в заведениях фаст фуда 🍔🍔🍔🍔
 prep_time: 40 минут
 servings: 4 штуки
-preview: /assets/images/b07c5b4303161a85.jpg
+preview: /assets/images/burgery-iz-mramornoy-govyadiny-preview.jpg
 ingredients:
 - name: 400 гр фарш из мраморной говядины "Мираторг"
   isHead: false
@@ -35,37 +35,37 @@ steps:
     и с большим радиусом, т.к. при жарке они будут уменьшатся и подниматься вверх.
     Рекомендуется руки смочить водой при лепке, чтобы котлеты были более податливыми.
   images:
-  - /assets/images/f394006e6c9df9aa.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-1-1.jpg
 - name: Шаг 2
   description: Жарим котлеты на разогретом растительном масле с каждой стороны по
     2-3 минуты.
   images:
-  - /assets/images/11fc0b1cda3283a6.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-2-1.jpg
 - name: Шаг 3
   description: 'Булочки разрезаем на 2 половинки, каждую из них по 30-40 сек прогреваем
     на сухой чистой разогретой сковороде. Далее собираем бургер: на нижнюю половинку
     добавляем майонез и размазываем по всей поверхности, сверху кладём лист салата,
     далее кружок помидора.'
   images:
-  - /assets/images/61e3a8d7bf442317.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-3-1.jpg
 - name: Шаг 4
   description: У меня был подготовлен маринованный лучок. Рекомендую добавить лук
     и огурцы вместе, кислинка даст очень хороший вкус к мясу.
   images:
-  - /assets/images/d279a726f222e576.jpg
-  - /assets/images/6abfaf4153c6f2ec.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-4-1.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-4-2.jpg
 - name: Шаг 5
   description: Далее добавляю кетчуп и поверх кладу котлетку. Поверх котлеты идёт
     сыр и смазанная кетчуп вторая часть булочки с кунжутом. Для того, чтобы бургер
     "не развалился" используем палочки для канапе или что-нибудь похожее из подручных
     средств для скрепления.
   images:
-  - /assets/images/e27f81ab6ead7d56.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-5-1.jpg
 - name: Шаг 6
   description: Бургеры готовы, можно кушать 🍔 Рекомендую поэкспериментировать с соусами,
     добавить горчицу больше или специализированные соусы-барбекю.
   images:
-  - /assets/images/fda8d5645ef2964e.jpg
-  - /assets/images/a6569f57f4c81493.jpg
-  - /assets/images/82416eb3434da6aa.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-6-1.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-6-2.jpg
+  - /assets/images/burgery-iz-mramornoy-govyadiny-step-6-3.jpg
 ---

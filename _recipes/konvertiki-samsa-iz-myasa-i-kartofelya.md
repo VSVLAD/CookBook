@@ -6,7 +6,7 @@ description: Очень вкусное блюдо, чтобы порадоват
   на другом тесте. Делается быстрее и без сложностей
 prep_time: 60-90 минут
 servings: ''
-preview: /assets/images/af7415b42ae978ce.jpg
+preview: /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-preview.jpg
 ingredients:
 - name: 500 грамм готового слоенного бездрожевого теста
   isHead: false
@@ -20,20 +20,20 @@ steps:
     от опыта работы с тестом. Нарезаем мясо на мелкие кубики. Тоже самое повторяем
     с картофелем, чем мельче картофель, тем быстрее он приготовится.
   images:
-  - /assets/images/6e7f8c3ef673ed02.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-1-1.jpg
 - name: Шаг 2
   description: Перемешиваем всю смесь, перчим и солим. Лук добавляем по желанию, если
     ваши гости его любят
   images:
-  - /assets/images/b59f5b7adbd3351e.jpg
-  - /assets/images/da297f4d11d186dd.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-2-1.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-2-2.jpg
 - name: Шаг 3
   description: Тесто, предварительно размороженное минут 30, раскатываем на широкий
     пласт и ножом разделяем его на 6 частей. Итого, у нас получается из одной пачки
     теста 12 самсов (самсин) 😊
   images:
-  - /assets/images/774aaf46879d8e13.jpg
-  - /assets/images/d4a724a888e194f8.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-3-1.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-3-2.jpg
 - name: Шаг 4
   description: 'На каждый квадрат теста выкладываем начинку и заворачиваем в конверт:
     берём за один уголок и берём противоположный угол по диагонали и их защипываем.
@@ -41,15 +41,15 @@ steps:
     слишком маленькой, пришлось сделать из неё форму маленького пирога. Все конверты
     располагаем на пергаментную бумагу'
   images:
-  - /assets/images/78154467184a1548.jpg
-  - /assets/images/13a2d03187b6c310.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-4-1.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-4-2.jpg
 - name: Шаг 5
   description: Отправляем в духовку на 40-50 минут под 190°. Смотрим чтобы в первую
     очередь сготовился картофель, т.к. мясо будет на этот момент времени уже готовым.
     При необходимости можно зубочисткой проткнуть самсу и если картофель мягкий, тогда
     самсы можно извлекать из печи
   images:
-  - /assets/images/44707b2b6ee309de.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-5-1.jpg
 - name: Шаг 6
   description: Если картофель слишком водянистый, то может чуть жидкости выходить
     из самсы, которая будет прикипать во время готовки. Тогда тяжелее будет самсу
@@ -57,6 +57,6 @@ steps:
     аккуратно постепенно бумагу отделять от самсин. После небольших хлопот, гости
     вас обязательно вознаградят за вкусный ужин. Подавать лучше со сметаной
   images:
-  - /assets/images/18addec5143e4aa9.jpg
-  - /assets/images/a531d2c367dd56c4.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-6-1.jpg
+  - /assets/images/konvertiki-samsa-iz-myasa-i-kartofelya-step-6-2.jpg
 ---

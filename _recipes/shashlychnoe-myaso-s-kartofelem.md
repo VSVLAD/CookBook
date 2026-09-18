@@ -5,7 +5,7 @@ description: Дежурное блюдо на неделю, готовится �
   настоящий шашлык, но мясо получается вкусненькое.
 prep_time: 50 минут
 servings: 8-10 порций
-preview: /assets/images/c47a05351d9eb62d.jpg
+preview: /assets/images/shashlychnoe-myaso-s-kartofelem-preview.jpg
 ingredients:
 - name: 400-500 грамм свинина
   isHead: false
@@ -23,26 +23,26 @@ steps:
     помешиваем, чтобы не сгорел. Добавляем свинину нарезанную на небольшие кусочки.
     Сразу солим и перчим.
   images:
-  - /assets/images/28a1558c7a1dcd09.jpg
-  - /assets/images/2b2fd100970cc4f4.jpg
+  - /assets/images/shashlychnoe-myaso-s-kartofelem-step-1-1.jpg
+  - /assets/images/shashlychnoe-myaso-s-kartofelem-step-1-2.jpg
 - name: Шаг 2
   description: После того как посолили, мясо начнёт выделять сок, поэтому перемешаем
     разок и накрываем крышкой. Жарим на медленном огне.
   images:
-  - /assets/images/db00485bc798b060.jpg
+  - /assets/images/shashlychnoe-myaso-s-kartofelem-step-2-1.jpg
 - name: Шаг 3
   description: Раз в 3-4 минуты перемешиваем и когда жидкость полностью выпарится,
     добавим немного воды (3-4 ст. ложки) и опять тушим под крышкой. Как жидкость почти
     вся выпарится, немного сбрызгиваем мясо уксусом и убираем сковороду с огня. Весь
     процесс жарки занимает минут 15-20.
   images:
-  - /assets/images/5a566778c6f753e5.jpg
+  - /assets/images/shashlychnoe-myaso-s-kartofelem-step-3-1.jpg
 - name: Шаг 4
   description: На отдельной сковороде жарим картофель до полного приготовления.
   images:
-  - /assets/images/a5301b1f049a0bb8.jpg
+  - /assets/images/shashlychnoe-myaso-s-kartofelem-step-4-1.jpg
 - name: Шаг 5
   description: Осталось переложить мясо к картофелю и перемешать.
   images:
-  - /assets/images/5bc57f18941a4f09.jpg
+  - /assets/images/shashlychnoe-myaso-s-kartofelem-step-5-1.jpg
 ---

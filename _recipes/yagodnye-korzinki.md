@@ -6,7 +6,7 @@ description: 'Этот рецепт навеян вкусняшками из с�
   малиной или смородиной. Десерт очень красивый, Вашим гостям обязательно понравится.'
 prep_time: 2 часа
 servings: 12-14 штук
-preview: /assets/images/846de4cc4d492867.jpg
+preview: /assets/images/yagodnye-korzinki-preview.jpg
 ingredients:
 - name: Тесто
   isHead: true
@@ -37,37 +37,37 @@ steps:
     смесью. Вливаем в смесь одно яйцо и вымешиваем тесто. Должен сформироваться клубок
     теста. Упаковываем его в пищевую плёнку или кулёк и отправляем на 15 минут в морозилку.'
   images:
-  - /assets/images/de924dd31cdaf570.jpg
+  - /assets/images/yagodnye-korzinki-step-1-1.jpg
 - name: Шаг 2
   description: Далее достаём охлаждённое тесто и продолжаем работу. Немного ещё вымешиваем
     и раскатываем скалкой в слой ~3 мм. Вырезаем ножом или кружкой круг чуть больше,
     чем сама форма для выпекания.
   images:
-  - /assets/images/ad9ccedd3a22ca5d.jpg
-  - /assets/images/334f311895f95d85.jpg
+  - /assets/images/yagodnye-korzinki-step-2-1.jpg
+  - /assets/images/yagodnye-korzinki-step-2-2.jpg
 - name: Шаг 3
   description: Помогаем рукой заполнить форму тестом и выравниваем края.
   images:
-  - /assets/images/55720dc31c0a1f13.jpg
+  - /assets/images/yagodnye-korzinki-step-3-1.jpg
 - name: Шаг 4
   description: Выпекаем в разогретой духовке 15 минут при температуре 180.
   images:
-  - /assets/images/6c2e765371fd7590.jpg
+  - /assets/images/yagodnye-korzinki-step-4-1.jpg
 - name: Шаг 5
   description: Творог тем временем соединяем со сметаной и взбиваем блендером, миксером
     или ложкой в массу. Рекомендую добавить ещё сахара по вкусу, т.к. у меня получилось
     менее сладко, чем хотелось бы.
   images:
-  - /assets/images/da876f30e3131b2a.jpg
+  - /assets/images/yagodnye-korzinki-step-5-1.jpg
 - name: Шаг 6
   description: В остывшие корзинки добавляем творожную смесь и сверху украшаем ягодами
     малины.
   images:
-  - /assets/images/ccd585cd24de957a.jpg
-  - /assets/images/0a3869d37b21a8d9.jpg
+  - /assets/images/yagodnye-korzinki-step-6-1.jpg
+  - /assets/images/yagodnye-korzinki-step-6-2.jpg
 - name: Шаг 7
   description: Готовые корзинки перед подачей охладить в холодильнике.
   images:
-  - /assets/images/a4215f785bb49a84.jpg
-  - /assets/images/96d2afeabb9ff2ea.jpg
+  - /assets/images/yagodnye-korzinki-step-7-1.jpg
+  - /assets/images/yagodnye-korzinki-step-7-2.jpg
 ---

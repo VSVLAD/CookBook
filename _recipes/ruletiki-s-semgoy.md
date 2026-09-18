@@ -6,7 +6,7 @@ description: В магазине Лента продавались такие  �
   р в зимний период. В целом бюджетно вышло и вкусно. Рыбки всего 100 грамм использовано.
 prep_time: 30 мин
 servings: 2 порции
-preview: /assets/images/04ee1e93e3d9b797.jpg
+preview: /assets/images/ruletiki-s-semgoy-preview.jpg
 ingredients:
 - name: 1 шт,  лаваш
   isHead: false
@@ -24,21 +24,21 @@ steps:
     нагреваем в микроволновке плавленый сыр и тогда он хорошо мажется на лаваш. Далее
     кладём мелко нарезанную рыбу. Чем больше рыбы, тем вкуснее 😊
   images:
-  - /assets/images/82a7768f0b4a331d.jpg
+  - /assets/images/ruletiki-s-semgoy-step-1-1.jpg
 - name: Шаг 2
   description: Поверх рыбы кладём салат, в моём случае это молодые листья капусты.
     Далее сверху кладём нарезанный соломкой огурец. Салат и огурец придаст свежесть
     блюду
   images:
-  - /assets/images/c00ee9604bc24274.jpg
+  - /assets/images/ruletiki-s-semgoy-step-2-1.jpg
 - name: Шаг 3
   description: Скручиваем в рулет. Многие кладут его в холодильник на 30 минут. Я
     же сразу начал его нарезать на цилиндры толщиной в 1.5-2 см. Нож лучше использовать
     очень острый и медленно резать им, чтобы сильно не нажимать на рулет.
   images:
-  - /assets/images/d8e4a97fba5de637.jpg
+  - /assets/images/ruletiki-s-semgoy-step-3-1.jpg
 - name: Шаг 4
   description: Готовые рулетики раскладываем на тарелку и можно уже кушать.
   images:
-  - /assets/images/c696e6ffd3afa907.jpg
+  - /assets/images/ruletiki-s-semgoy-step-4-1.jpg
 ---

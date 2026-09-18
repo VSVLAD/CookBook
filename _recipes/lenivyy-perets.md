@@ -5,7 +5,7 @@ description: Дежурное блюдо на неделю. Готовится �
   перец
 prep_time: 40 минут
 servings: 6 порций
-preview: /assets/images/27dd27dd2bbc3e9c.jpg
+preview: /assets/images/lenivyy-perets-preview.jpg
 ingredients:
 - name: 5 шт болгарский перец
   isHead: false
@@ -26,21 +26,21 @@ steps:
     по вкусу и тушим всё 15 минут на маленьком огне. При желании добавляем для аромата
     лавровый лист.
   images:
-  - /assets/images/20323c95e63c4a63.jpg
+  - /assets/images/lenivyy-perets-step-1-1.jpg
 - name: Шаг 2
   description: Перец моем и очищаем от семечек.
   images:
-  - /assets/images/f1b443037c03de3b.jpg
+  - /assets/images/lenivyy-perets-step-2-1.jpg
 - name: Шаг 3
   description: Пока рис готовится в это время перемалываем перец в блендере на маленькие
     кусочки. Он пойдёт в блюдо в самом конце.
   images:
-  - /assets/images/8ad2c84ec7239138.jpg
-  - /assets/images/f03ea757bfeec6de.jpg
+  - /assets/images/lenivyy-perets-step-3-1.jpg
+  - /assets/images/lenivyy-perets-step-3-2.jpg
 - name: Шаг 4
   description: За 5 минут до окончания готовки, добавляем перемолотый болгарский перец.
     В конце приготовления выключаем огонь, не открывая крышку сковороды, даём рису
     отдохнуть и пропариться.
   images:
-  - /assets/images/d03d7957ff7954b6.jpg
+  - /assets/images/lenivyy-perets-step-4-1.jpg
 ---

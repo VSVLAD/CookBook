@@ -5,7 +5,7 @@ description: Когда картошка с мясом уже надоела и 
   много и сразу на всю неделю, кушается очень быстро =)
 prep_time: 40 минут
 servings: ''
-preview: /assets/images/504ddbe2ad86cf1e.jpg
+preview: /assets/images/azu-po-tatarski-preview.jpg
 ingredients:
 - name: 600-800 грамм мяса (свинина)
   isHead: false
@@ -32,7 +32,7 @@ steps:
     Если жидкость быстро испаряется, можно добавить немного воды и ждать пока она
     выкипит при тушении
   images:
-  - /assets/images/22391d17197bd1ec.jpg
+  - /assets/images/azu-po-tatarski-step-2-1.jpg
 - name: Шаг 3
   description: Нарезаем солёные огурцы и отправляем в сковороду к мясу за 5 минут
     до его готовности
@@ -43,5 +43,5 @@ steps:
     тогда огурцы нужно класть только после того, как картофель приготовится, иначе
     кислота огурцов сделает картофель "дубовым" и будет как сырой
   images:
-  - /assets/images/b88ff53055440783.jpg
+  - /assets/images/azu-po-tatarski-step-4-1.jpg
 ---

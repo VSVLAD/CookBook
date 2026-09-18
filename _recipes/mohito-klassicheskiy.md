@@ -5,7 +5,7 @@ description: В жаркую погоду решили пойти в кафе и
   сделать его дома и будет абсолютно с таким же вкусом
 prep_time: 20 мин
 servings: 4 шт
-preview: /assets/images/ef8ce0ea2294c2b1.jpg
+preview: /assets/images/mohito-klassicheskiy-preview.jpg
 ingredients:
 - name: 1 литр,  Швепс тоник/лимон, спрайт, севенап
   isHead: false
@@ -22,18 +22,18 @@ steps:
   description: Мяту промыть, отделить листья от веточек, добавить в кувшин или сразу
     в стакан.
   images:
-  - /assets/images/6c5b8fccbf12175e.jpg
-  - /assets/images/54366a6a4d94e7d9.jpg
+  - /assets/images/mohito-klassicheskiy-step-1-1.jpg
+  - /assets/images/mohito-klassicheskiy-step-1-2.jpg
 - name: Шаг 2
   description: Лайм нарезать и выдавить из него сок, добавить в кувшин. Далее добавляется
     сок лимона и лёд. Заливается всё напитком на выбор. В моём случае это было 2 вида
     (и спрайт и швепс тоник).
   images:
-  - /assets/images/30651832c961cbac.jpg
+  - /assets/images/mohito-klassicheskiy-step-2-1.jpg
 - name: Шаг 3
   description: Версия с спрайтом более мягче и сахар добавлять не нужно. В версию
     с швепсом тоник был добавлен сахар, предварительно в кружке растворённый с водой.
     Тогда не нужно в кувшине мешать, это удобно. Швепс тоник даёт приятную горчинку.
   images:
-  - /assets/images/ebc45cd04afc3d34.jpg
+  - /assets/images/mohito-klassicheskiy-step-3-1.jpg
 ---

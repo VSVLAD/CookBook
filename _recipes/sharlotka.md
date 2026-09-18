@@ -5,7 +5,7 @@ description: Рецепт обычного пирога "шарлотка". Де
   при приготовлении красные яблоки
 prep_time: 40 минут
 servings: 6 порций
-preview: /assets/images/4190d7d6038e1b3f.jpg
+preview: /assets/images/sharlotka-preview.jpg
 ingredients:
 - name: 2 шт,  яйца куриные
   isHead: false
@@ -40,6 +40,6 @@ steps:
     Пошагового рецепта к сожалению не осталось. Рецепт простой, проблем возникнуть
     не должно'
   images:
-  - /assets/images/bd60e2f062dd4766.jpg
-  - /assets/images/ccdfe1c3cff4fd05.jpg
+  - /assets/images/sharlotka-step-2-1.jpg
+  - /assets/images/sharlotka-step-2-2.jpg
 ---

@@ -7,7 +7,7 @@ description: Первый раз в жизни купил упаковку "би
   В составе нет глутамата натрия и прочих вкусностей и это замечательно.
 prep_time: 50 минут
 servings: 5 порций
-preview: /assets/images/5ad05df323d78291.jpg
+preview: /assets/images/kurochka-s-chesnokom-maggi-na-vtoroe-preview.jpg
 ingredients:
 - name: 1 кг куриные голени
   isHead: false
@@ -22,23 +22,23 @@ steps:
   description: Чистим картофель и нарезаем крупными дольками и насыпаем в "рукав",
     который идёт вместе со специями. Куриные голени загружаем сверху.
   images:
-  - /assets/images/908cc14e95ab3452.jpg
-  - /assets/images/f230962a25e9dfc8.jpg
+  - /assets/images/kurochka-s-chesnokom-maggi-na-vtoroe-step-1-1.jpg
+  - /assets/images/kurochka-s-chesnokom-maggi-na-vtoroe-step-1-2.jpg
 - name: Шаг 2
   description: В дополнение добавил немного подсолнечного масла, т.к. с подозрением
     смотрел на пакет-рукав, не хотелось, чтобы к нему прилипло всё. Но можно обойтись
     и вовсе без него. Всю упаковку специй высыпаем в рукав и аккуратно перемешиваем,
     разминая его. Закрепляем пакет, как указано в инструкции
   images:
-  - /assets/images/33a322706405d247.jpg
+  - /assets/images/kurochka-s-chesnokom-maggi-na-vtoroe-step-2-1.jpg
 - name: Шаг 3
   description: Перекладываем пакет в противень и запекаем в разогретой духовке (печи)
     40 минут при температуре 180.
   images:
-  - /assets/images/c903814f18ad7c90.jpg
+  - /assets/images/kurochka-s-chesnokom-maggi-na-vtoroe-step-3-1.jpg
 - name: Шаг 4
   description: 'Красивая золотистая картошка и курочка готова. Рукав справился с задачей:
     выдержал жар и не расплавился'
   images:
-  - /assets/images/7298829ba72d16d4.jpg
+  - /assets/images/kurochka-s-chesnokom-maggi-na-vtoroe-step-4-1.jpg
 ---

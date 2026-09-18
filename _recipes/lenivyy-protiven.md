@@ -5,7 +5,7 @@ description: Вкусненько и очень очень просто. В ко
   ещё чеснока положить, для аромата. Я же забыл, очень голодный был 😋
 prep_time: 40 минут
 servings: 6-8 порций
-preview: /assets/images/57dd7583cf1438c1.jpg
+preview: /assets/images/lenivyy-protiven-preview.jpg
 ingredients:
 - name: 1 кг картофель
   isHead: false
@@ -24,33 +24,33 @@ steps:
   description: Подготавливаем продукты, картофель у меня пастеризованный, очищенный
     и в виде шариков.
   images:
-  - /assets/images/2b947afbd03d3afd.jpg
+  - /assets/images/lenivyy-protiven-step-1-1.jpg
 - name: Шаг 2
   description: Грибы моем в воде и режем на слайсы, маленькие можно на половинки.
   images:
-  - /assets/images/be3d61184d015ea8.jpg
+  - /assets/images/lenivyy-protiven-step-2-1.jpg
 - name: Шаг 3
   description: Добавляем ветчину и майонез. Пробуем ветчину на вкус, насколько она
     соленная. Досаливаем и перчим.
   images:
-  - /assets/images/e5a954aaebf29663.jpg
+  - /assets/images/lenivyy-protiven-step-3-1.jpg
 - name: Шаг 4
   description: Перемешиваем наш овощной тазик и распределяем всё на противнях. Сверху
     кладём помидоры. Растительное масло не добавляю, т.к. из майонеза выделится достаточное
     его количество.
   images:
-  - /assets/images/aee22229e2236172.jpg
+  - /assets/images/lenivyy-protiven-step-4-1.jpg
 - name: Шаг 5
   description: Ставим в духовку на 180-190 градусов на 30 минут. Пробуем вилкой картофель
     проткнуть. Если мягкий и распадается, то можно выключать печь, иначе ещё пусть
     пропечется. Ужин готов!
   images:
-  - /assets/images/ef4d1cb52ac91595.jpg
-  - /assets/images/a33b997909a06825.jpg
+  - /assets/images/lenivyy-protiven-step-5-1.jpg
+  - /assets/images/lenivyy-protiven-step-5-2.jpg
 - name: Шаг 6
   description: 'Версия #2: если есть в наличии сыр, то можно улучшить вкусняшку: немного
     трём сыр и запекаем в духовке ещё 8-10 минут, чтобы образовалась сырная шапочка'
   images:
-  - /assets/images/83c1de834198f57f.jpg
-  - /assets/images/d56e96405fa450b8.jpg
+  - /assets/images/lenivyy-protiven-step-6-1.jpg
+  - /assets/images/lenivyy-protiven-step-6-2.jpg
 ---

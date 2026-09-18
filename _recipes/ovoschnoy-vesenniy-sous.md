@@ -6,7 +6,7 @@ description: Помидорки и кабачки уже созрели, мол�
   среднее между супом и жаркое
 prep_time: 1ч 30 мин
 servings: 8 порций
-preview: /assets/images/88aef2aafeaf8bc6.jpg
+preview: /assets/images/ovoschnoy-vesenniy-sous-preview.jpg
 ingredients:
 - name: 300-400 гр свинина
   isHead: false
@@ -34,39 +34,39 @@ steps:
     фасоль, капусту брокколи, баклажаны и всё что душе угодно. В данном случае основу
     составят кабачки
   images:
-  - /assets/images/f1237c6d573153ad.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-1-1.jpg
 - name: Шаг 2
   description: В мультиварку наливаем масло и включаем на 20 минут режим "жарка".
     У меня в запасе было оливковое масло. Добавляем лук и морковь. Режем крупно, всё
     равно после тушения будет мягким и нежным. Не забываем помешивать
   images:
-  - /assets/images/198c025860d8c532.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-2-1.jpg
 - name: Шаг 3
   description: Когда мясо схватилось, солим и перчим, начнёт выделяться сок. Добавляем
     помидоры. Выключаем режим "жарка" и включаем режим "тушение" или "суп" (зависит
     от модели мультиварки)
   images:
-  - /assets/images/3b194ad828b1e4eb.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-3-1.jpg
 - name: Шаг 4
   description: Добавляем крупно порезанную кубиками картофелину, далее идут кабачки
   images:
-  - /assets/images/f3790ab76a08be5d.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-4-1.jpg
 - name: Шаг 5
   description: Далее кладём капусту и выдавливаем пару зубчиков чеснока внутрь чаши
     для приятного запаха
   images:
-  - /assets/images/0a0f10622b7f4659.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-5-1.jpg
 - name: Шаг 6
   description: Добавляем томатную пасту и перемешиваем. Я иногда добавляю ещё немного
     кетчупа Хайнц томатный. Он блюдо не испортит и будет повкуснее чем покупная томат
     паста.
   images:
-  - /assets/images/8857032bb633d84f.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-6-1.jpg
 - name: Шаг 7
   description: Накрываем крышку и ставим программу на 1 час. Воды можно и не добавлять,
     т.к. кабачки и помидоры дадут жидкость и всё будет тушится в собственном соку.
     Ждём сигнала окончания готовки. Приятного аппетита!
   images:
-  - /assets/images/32b1cd168712c4ba.jpg
-  - /assets/images/d5bf98b6ad1a833b.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-7-1.jpg
+  - /assets/images/ovoschnoy-vesenniy-sous-step-7-2.jpg
 ---

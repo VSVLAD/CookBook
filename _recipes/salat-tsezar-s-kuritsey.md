@@ -7,7 +7,7 @@ description: Мой первый цезарь v1 для новогоднего �
   краях сложно было найти вустерский соус, дижонскую горчицу и анчоусы. Пришлось хитрить.
 prep_time: 45 минут
 servings: 5 порций
-preview: /assets/images/91c633159a96a6e2.jpg
+preview: /assets/images/salat-tsezar-s-kuritsey-preview.jpg
 ingredients:
 - name: Основа
   isHead: true
@@ -46,33 +46,33 @@ steps:
     сковороду без масла. Минут 15-20 они будут сушиться и появится зажаристая корочка.
     Временами помешиваем.
   images:
-  - /assets/images/a98f95eaa3499321.jpg
-  - /assets/images/4dc3237e076a115f.jpg
-  - /assets/images/d470a263c2faa7a4.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-1-1.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-1-2.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-1-3.jpg
 - name: Шаг 2
   description: Куриную грудку обжариваем на сковороде также без масла на среднем огне.
     Сковороду берите с антипригарным покрытием. Филе с каждом стороны жарим около
     5 минут. После даём остыть и нарезаем на брусочки.
   images:
-  - /assets/images/db637be5691c2692.jpg
-  - /assets/images/5066a3aef8a2d33a.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-2-1.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-2-2.jpg
 - name: Шаг 3
   description: Сыр, очень желательно чтобы был именно пармезан, трём на мелкой тёрке.
     Часть пойдёт в соус, а часть посыпкой на салат
   images:
-  - /assets/images/20c91f5cd3e886b3.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-3-1.jpg
 - name: Шаг 4
   description: Я не стал использовать пекинскую капусту, взял салат Айсберг. Также
     некоторые повара рекомендуют салат Ромен, возможно он лучше даже подойдёт для
     Цезаря. Моем салат в холодной воде, руками отщипываем листья и рвём на кусочки.
   images:
-  - /assets/images/59b07be89980fc7f.jpg
-  - /assets/images/5e9aa3df9f7953c0.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-4-1.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-4-2.jpg
 - name: Шаг 5
   description: Смешиваем курицу и салат в отдельной ёмкости и добавляем соус для Цезаря
     и о нём разговор пойдёт ниже.
   images:
-  - /assets/images/5659c2d22d8fc2dc.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-5-1.jpg
 - name: Шаг 6
   description: 'Для основы соуса можно использовать готовый майонез или сделать его
     самому. Я решил сделать его сам: нужно сначала яйца взбить блендером в высоком
@@ -93,12 +93,12 @@ steps:
     сверху отварные яйца. Если есть возможность найти перепелиные яйца, то будет даже
     красивее с ними.
   images:
-  - /assets/images/9a9d289d2151885f.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-8-1.jpg
 - name: Шаг 9
   description: Далее выкладываем помидоры, рекомендую использовать черри или другие
     коктейльного сорта. В самом конце добавляем сухарики и посыпаем тёртым сыром.
     В таком виде салат можно хранить в холодильнике и сухарики не отсыреют и будет
     салат как только что приготовленный.
   images:
-  - /assets/images/b392c913cf29b0c7.jpg
+  - /assets/images/salat-tsezar-s-kuritsey-step-9-1.jpg
 ---

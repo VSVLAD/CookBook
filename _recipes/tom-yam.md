@@ -9,7 +9,7 @@ description: Том Ям попробовал в нескольких кафеш
   😊
 prep_time: 1 ч 30 мин
 servings: 6-8 порций
-preview: /assets/images/6e6cc4479d4213ea.jpg
+preview: /assets/images/tom-yam-preview.jpg
 ingredients:
 - name: 250 грамм кокосовое молоко
   isHead: false
@@ -34,35 +34,35 @@ steps:
   description: Нарезаем лук колечками и отправляем на разогретую сковороду с растительным
     маслом. На сковороде также рупно порезаны 3 зубчика чеснока.
   images:
-  - /assets/images/5e34faf8205d5e3b.jpg
+  - /assets/images/tom-yam-step-1-1.jpg
 - name: Шаг 2
   description: На медленном огне пока жарится лук, нарезаем помидоры черри на половинки.
   images:
-  - /assets/images/7e3d90c8a49a6a94.jpg
-  - /assets/images/3f727f9636fb92ee.jpg
+  - /assets/images/tom-yam-step-2-1.jpg
+  - /assets/images/tom-yam-step-2-2.jpg
 - name: Шаг 3
   description: Добавляем помидоры к луку и периодически помешивая. В отдельной кастрюле
     варится куриный бульон из окорочков, если есть пожирнее кусочки, будет лучше.
   images:
-  - /assets/images/233a85f51d2dabb2.jpg
+  - /assets/images/tom-yam-step-3-1.jpg
 - name: Шаг 4
   description: После того, как курица готова, мясо вынимаю из бульона. При желании
     курицу можно порезать на кусочки и добавить в суп в самом конце. В этой же версии
     у нас используется только куриный бульон. Перекладываем обжаренный лук с помидорами
     и нарезанные грибы в кастрюлю.
   images:
-  - /assets/images/156abecb6b5f9e02.jpg
+  - /assets/images/tom-yam-step-4-1.jpg
 - name: Шаг 5
   description: На небольшую кастрюлю обычно используется 2 пакетика готовой основы.
     У меня супа много, поэтому положил 3 шт. В кастрюлю также добавляем нарезанный
     мелко перец чили. Добавлял совсем немного, т.к. чили паста уже есть в основе.
   images:
-  - /assets/images/7ff47d205303f70f.jpg
+  - /assets/images/tom-yam-step-5-1.jpg
 - name: Шаг 6
   description: Добавляем кокосовое молоко. В моём случае это из металлической банки.
     Цвет супа сразу принимает классический для том яма оранжевый цвет.
   images:
-  - /assets/images/a5daf9514261dbd3.jpg
+  - /assets/images/tom-yam-step-6-1.jpg
 - name: Шаг 7
   description: За минуты 2 до готовности кладу в суп предварительно очищенные креветки
     и кусочки кальмаров. За это время они будут готовы. Креветок можно положить больше,
@@ -71,6 +71,6 @@ steps:
     В моём случае соль не требовалась, т. к. в основе её было достаточно. Выключаем
     газ и заправляем суп нарезанной кинзой. Супчик готов. 😋
   images:
-  - /assets/images/540a0d4019801cb7.jpg
-  - /assets/images/9e0d5e69cddd4518.jpg
+  - /assets/images/tom-yam-step-7-1.jpg
+  - /assets/images/tom-yam-step-7-2.jpg
 ---

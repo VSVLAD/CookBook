@@ -6,7 +6,7 @@ description: 'Для самых ленивых, но любящих вкусно
   Вкуснее всего подавать с наполнителем: сгущёнка или варенье'
 prep_time: 30 минут
 servings: 2 порции
-preview: /assets/images/1812146162822dad.jpg
+preview: /assets/images/lenivye-vareniki-preview.jpg
 ingredients:
 - name: 400 гр творог
   isHead: false

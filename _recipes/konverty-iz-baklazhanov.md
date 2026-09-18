@@ -4,7 +4,7 @@ title: Конверты из баклажанов
 description: Жаренные баклажаны подаются как холодная закуска
 prep_time: ''
 servings: ''
-preview: /assets/images/fa88d0f4e923a79a.jpg
+preview: /assets/images/konverty-iz-baklazhanov-preview.jpg
 ingredients:
 - name: 2 шт. баклажан
   isHead: false
@@ -21,12 +21,12 @@ steps:
     Доливаем масло при его уменьшении. Готовые баклажаны выкладываем на салфетку или
     газету и ждём пока остатки масла впитает ткань/бумага.
   images:
-  - /assets/images/d1d3f0a9d16fd7df.jpg
+  - /assets/images/konverty-iz-baklazhanov-step-1-1.jpg
 - name: Шаг 2
   description: Майонез перемешиваем с мелко нарезанным чесноком. Одну сторону смазываем
     майонезом и кладём кружок помидора на край. Накрываем другой частью баклажана
     сторону с помидором
   images:
-  - /assets/images/7de427535e08a26e.jpg
-  - /assets/images/363798766270b9f1.jpg
+  - /assets/images/konverty-iz-baklazhanov-step-2-1.jpg
+  - /assets/images/konverty-iz-baklazhanov-step-2-2.jpg
 ---

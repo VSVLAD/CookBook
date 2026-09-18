@@ -8,7 +8,7 @@ description: Первый раз в жизни решил попробовать
   выходит. Даже если вдруг не получится, не жалко выкинуть.
 prep_time: 50 мин
 servings: 3 порции
-preview: /assets/images/5ecab5c3a7ce743b.jpg
+preview: /assets/images/zapechennye-yabloki-s-medom-i-orehami-preview.jpg
 ingredients:
 - name: 3 шт яблоки красные
   isHead: false
@@ -28,25 +28,25 @@ steps:
     здесь не обязательны, достаточно было орехов с мёдом. Но делал всё впервые и решил
     добавить всего по чуть-чуть.
   images:
-  - /assets/images/5208416605185d7e.jpg
-  - /assets/images/4ccdb4b60e15d241.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-1-1.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-1-2.jpg
 - name: Шаг 2
   description: Яблоки моем и отрезаем крышечку, а внутренности вырезаем ножом и убираем
     ложкой. Стенки желательно сильно не трогать, чем больше высвобождаете место, тем
     больше можно начинки добавить.
   images:
-  - /assets/images/47dff7492676c0b4.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-2-1.jpg
 - name: Шаг 3
   description: Добавляем начинку в каждое яблоко и грушу. Груши брали для эксперимента.
     После добавления начинки, струйкой заливаем немного мёда. Если он твёрдый, то
     чайной ложкой кладём небольшой кусочек сверху начинки.
   images:
-  - /assets/images/f2506d18ca4341fd.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-3-1.jpg
 - name: Шаг 4
   description: Выкладываем всё на противень накрытый пергаментной бумагой. Закрываем
     крышки у фруктов и отправляем в разогретую духовку под 180° на 35 минут.
   images:
-  - /assets/images/a10181647d9960d0.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-4-1.jpg
 - name: Шаг 5
   description: У меня яблоки дали сок и излишек вытек на бумагу, но ничего не пригорело.
     Запеченные фрукты, после того как остыли переносим на блюдо. Можно подавать с
@@ -54,6 +54,6 @@ steps:
     иначе начинка будет слишком жёсткой и не будет сочетаться с мягкостью яблок. Результат
     вполне устроил 😊
   images:
-  - /assets/images/05124fe7f9758e0f.jpg
-  - /assets/images/70baaa557051ff7a.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-5-1.jpg
+  - /assets/images/zapechennye-yabloki-s-medom-i-orehami-step-5-2.jpg
 ---

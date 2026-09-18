@@ -7,7 +7,7 @@ description: Первый раз готовлю самостоятельно г�
   действительно вкусные голубцы 😋
 prep_time: 1,5 часа
 servings: 11 штук
-preview: /assets/images/a073698021ae265c.jpg
+preview: /assets/images/golubtsy-preview.jpg
 ingredients:
 - name: 400 гр  фарш из свинины и говядины
   isHead: false
@@ -33,37 +33,37 @@ steps:
     Капуста в воде варится около 10-15 минут, тогда её легко можно раздевать на листы
     и они не будут рваться.
   images:
-  - /assets/images/eacdccd64b1704d4.jpg
+  - /assets/images/golubtsy-step-1-1.jpg
 - name: Шаг 2
   description: Поставим вариться рис, иногда помешиваем его. Также варим минут 10,
     чтобы он был ещё не готовым. Полную готовность получит в процессе тушения. Готовый
     рис откидываем на дуршлаг и добавляем к фаршу. Фарш солим перчим и перемешиваем
     с рисом.
   images:
-  - /assets/images/ee743237c623e0ad.jpg
-  - /assets/images/2dd960215876a0c4.jpg
+  - /assets/images/golubtsy-step-2-1.jpg
+  - /assets/images/golubtsy-step-2-2.jpg
 - name: Шаг 3
   description: Тем временем натрём на тёрке лук и морковь и обжарим на растительном
     масле. В блендере приготовим сок из помидорок и добавим это к зажарке. Вместо
     томатной пасты я добавил ложку хорошего кетчупа без специй. Когда закипит зажарка,
     отключаем огонь и убираем в сторону. Займёмся капустой.
   images:
-  - /assets/images/f182719febf302f0.jpg
-  - /assets/images/57f6ef1cbec0602f.jpg
-  - /assets/images/2087be826c0f0a81.jpg
+  - /assets/images/golubtsy-step-3-1.jpg
+  - /assets/images/golubtsy-step-3-2.jpg
+  - /assets/images/golubtsy-step-3-3.jpg
 - name: Шаг 4
   description: Охлаждаем капусту под холодной водой и снимаем листки. Нужно колотушкой
     или ложкой размять твёрдые белые жилки. Они легко разминаются и нам будет легче
     заворачивать начинку.
   images:
-  - /assets/images/0543cb205dadc733.jpg
+  - /assets/images/golubtsy-step-4-1.jpg
 - name: Шаг 5
   description: На капустный лист ближе к части, где он крепился к стеблю, выкладываем
     начинку и заворачиваем лист как конверт. Сборка голубцов не самое долгое в готовке.
   images:
-  - /assets/images/cc23f665d8dc0bb7.jpg
-  - /assets/images/35d3a08b8cceb182.jpg
-  - /assets/images/4cae640974ec11f1.jpg
+  - /assets/images/golubtsy-step-5-1.jpg
+  - /assets/images/golubtsy-step-5-2.jpg
+  - /assets/images/golubtsy-step-5-3.jpg
 - name: Шаг 6
   description: Готовые голубцы складываем в кастрюлю или высокую сковороду. Добавляем
     зажарку, которую раннее приготовили и добавляем воды, чтобы покрыть нижний слой
@@ -71,5 +71,5 @@ steps:
     после начинаем тушить на медленном огне около 30-40 минут. Всё, после этого, выключаем
     и отдыхаем от проделанной работы. Незабываем купить сметану. 🙂
   images:
-  - /assets/images/9dde714c8320c24e.jpg
+  - /assets/images/golubtsy-step-6-1.jpg
 ---

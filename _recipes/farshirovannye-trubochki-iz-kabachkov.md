@@ -6,7 +6,7 @@ description: Когда наступает лето и цены на кабач�
   основным блюдом
 prep_time: 60 минут
 servings: ''
-preview: /assets/images/e611c4bbbeed722e.jpg
+preview: /assets/images/farshirovannye-trubochki-iz-kabachkov-preview.jpg
 ingredients:
 - name: 4 шт. больших кабачка
   isHead: false
@@ -25,28 +25,28 @@ steps:
     около 1,5-2 см высотой. Дно будет в процессе запекания мягким и нам не нужно,
     чтобы оно подтекало
   images:
-  - /assets/images/e91a0c6fcff2d0f6.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-1-1.jpg
 - name: Шаг 2
   description: Фарш разминаем, при желании можно добавить лук мелкий и кусочки помидора.
     Набиваем кабачки и оставляем место для сыра. Если фарш слишком постный, можно
     добавить по маленькому кусочку сливочного масла в каждый цилиндр. Далее заправляем
     майонезом
   images:
-  - /assets/images/9ef9506622947aad.jpg
-  - /assets/images/e962381d55f91b66.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-2-1.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-2-2.jpg
 - name: Шаг 3
   description: Посыпаем измельчённый на тёрке сыр. Рукой поможем, чтобы сыр хорошо
     утрамбовался
   images:
-  - /assets/images/bba4b1d20ab4fd21.jpg
-  - /assets/images/f626bacbfe509f52.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-3-1.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-3-2.jpg
 - name: Шаг 4
   description: Запекаем на противени, на которую застилаем фольгу. Температура 180°-190°,
     время около 30-40 минут
   images:
-  - /assets/images/bfca73de0619d8ce.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-4-1.jpg
 - name: Шаг 5
   description: Трубочки готовы, можно подавать к столу
   images:
-  - /assets/images/a8e1bafac3611c11.jpg
+  - /assets/images/farshirovannye-trubochki-iz-kabachkov-step-5-1.jpg
 ---

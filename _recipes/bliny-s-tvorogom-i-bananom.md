@@ -6,7 +6,7 @@ description: Захотелось сейчас блинчиков, а почем
   обстановки.
 prep_time: ''
 servings: 8 шт.
-preview: /assets/images/6bb791a2cbd73e75.jpg
+preview: /assets/images/bliny-s-tvorogom-i-bananom-preview.jpg
 ingredients:
 - name: Основа блинов
   isHead: true
@@ -34,30 +34,30 @@ steps:
     и мука. Взбиваем блендером с венчиком до однородной консистенции. Добавляем соду
     или разрыхлитель и ещё немного перемешаем.'
   images:
-  - /assets/images/78f7cf3a3001cf78.jpg
-  - /assets/images/33b44d56a47a8599.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-1-1.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-1-2.jpg
 - name: Шаг 2
   description: Сковороду нагреем и смажем маслом и более масло не добавляем в процессе
     жарки. Добавляем половником тесто на сковороду и жарим на медленном огне до появление
     пузырьков или когда края начнут уже темнеть (около 1-1,5 минуты). Переворачиваем
     лопаткой и жарим другую сторону не более минуты.
   images:
-  - /assets/images/48f28adf913a2479.jpg
-  - /assets/images/89eaa675fa61f049.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-2-1.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-2-2.jpg
 - name: Шаг 3
   description: Творог и банан смешиваем и разминаем ложкой или картофелемялкой.
   images:
-  - /assets/images/b72de7b8c542ef38.jpg
-  - /assets/images/6d268df2a23c806d.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-3-1.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-3-2.jpg
 - name: Шаг 4
   description: Стопку блинов переворачиваем на обратную светлую сторону. Немного начинки
     распределяем как на фото и сворачиваем в бочонки. Получатся красивые блинные конвертики
     с яркой стороной.
   images:
-  - /assets/images/ba6a52b299b84c1d.jpg
-  - /assets/images/1ea5293ebeb4b03e.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-4-1.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-4-2.jpg
 - name: Шаг 5
   description: Осталось поставить чаёк ☕🥞
   images:
-  - /assets/images/2fe4779a044d0f52.jpg
+  - /assets/images/bliny-s-tvorogom-i-bananom-step-5-1.jpg
 ---

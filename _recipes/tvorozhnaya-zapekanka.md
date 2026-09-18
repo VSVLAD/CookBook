@@ -4,7 +4,7 @@ title: Творожная запеканка
 description: ''
 prep_time: 45 минут
 servings: ''
-preview: /assets/images/3a3b410560d023c9.jpg
+preview: /assets/images/tvorozhnaya-zapekanka-preview.jpg
 ingredients:
 - name: 600 грамм творога
   isHead: false
@@ -42,13 +42,13 @@ steps:
   description: Форму застилаю фольгой (либо пергаментной бумагой), смазываю растительным
     маслом и выкладываю всю смесь. Отправляю в духовку 180° на 30 минут
   images:
-  - /assets/images/20a38725fa29784c.jpg
+  - /assets/images/tvorozhnaya-zapekanka-step-4-1.jpg
 - name: Шаг 5
   description: Как шапочка подрумянятся, достаем из духовки и даём остыть. После того,
     как достали из духовки, шапочка упадёт и станет не очень привлекательной, поэтому
     переворачиваем запеканку "верх ногами". Рекомендую добавить сгущённое молоко к
     порционному кусочку
   images:
-  - /assets/images/0c97dee28bf25343.jpg
-  - /assets/images/0c4a327ce5b70087.jpg
+  - /assets/images/tvorozhnaya-zapekanka-step-5-1.jpg
+  - /assets/images/tvorozhnaya-zapekanka-step-5-2.jpg
 ---

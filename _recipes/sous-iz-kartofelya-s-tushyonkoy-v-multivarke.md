@@ -6,7 +6,7 @@ description: Планировал, что блюдо сделается быст
   из свинины (обычно брали из говядины)
 prep_time: 2 часа
 servings: 8 порций
-preview: /assets/images/2a04bd953734c8f8.jpg
+preview: /assets/images/sous-iz-kartofelya-s-tushyonkoy-v-multivarke-preview.jpg
 ingredients:
 - name: 2 шт тушёнка "Свинина"
   isHead: false
@@ -26,23 +26,23 @@ steps:
     растительного масла и отправляем жариться в мультиварке. Обжариваем около 15 минут
     на программе "Жарка", перемешивая постоянно овощи.
   images:
-  - /assets/images/1d9eab084264c096.jpg
+  - /assets/images/sous-iz-kartofelya-s-tushyonkoy-v-multivarke-step-1-1.jpg
 - name: Шаг 2
   description: Добавляем порезанный картофель кубиками среднего размера.
   images:
-  - /assets/images/212ac244d21cc48f.jpg
+  - /assets/images/sous-iz-kartofelya-s-tushyonkoy-v-multivarke-step-2-1.jpg
 - name: Шаг 3
   description: Открываем тушёнку, в моём случае это 2 разных производителя, но обе
     из свинины.
   images:
-  - /assets/images/469293da00a24c67.jpg
+  - /assets/images/sous-iz-kartofelya-s-tushyonkoy-v-multivarke-step-3-1.jpg
 - name: Шаг 4
   description: Болгарский перец режем на мелкие полоски/брусочки и добавляем всё к
     картофелю. Для аромата положил ещё 1 лавровый лист и перец душистый. Всё тщательно
     лопаткой перемешаем, накроем крышку и поставим 1.5 часа на программу "Тушение".
     Если такой программы нет, выбираем "Суп/Каша".
   images:
-  - /assets/images/91c4f56e6b60e3c3.jpg
+  - /assets/images/sous-iz-kartofelya-s-tushyonkoy-v-multivarke-step-4-1.jpg
 - name: Шаг 5
   description: Воды добавлять не нужно, перец и жир из тушенки дадут достаточно влаги.
     Если после приготовления, картофель будет не совсем готов, можно ещё 30 минут

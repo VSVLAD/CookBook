@@ -5,7 +5,7 @@ description: 'Очень простой и сытный обед. Ниже пр�
   и в кокотницах'
 prep_time: 40 минут
 servings: ''
-preview: /assets/images/1cfa09c64954f761.jpg
+preview: /assets/images/zhulen-iz-gribov-preview.jpg
 ingredients:
 - name: 500-800 грамм шампиньонов
   isHead: false
@@ -25,28 +25,28 @@ steps:
     на глаз. Соль берём по вкусу, учитывая, что добавляемый сыр сам по себе будет
     уже соленым
   images:
-  - /assets/images/bf4d282fc984a938.jpg
+  - /assets/images/zhulen-iz-gribov-step-1-1.jpg
 - name: Шаг 2
   description: Добавляем сметану, перемешиваем и ещё тушим, пока вода от сметаны не
     выпарится
   images:
-  - /assets/images/72ef52d30d55f6a2.jpg
-  - /assets/images/55aee0ae4698c055.jpg
+  - /assets/images/zhulen-iz-gribov-step-2-1.jpg
+  - /assets/images/zhulen-iz-gribov-step-2-2.jpg
 - name: Шаг 3
   description: Закладываем грибы в формочки и посыпаем сверху тёртым сыром. Руками
     можно прижать, чтобы сделать обильную сырную шапку
   images:
-  - /assets/images/5b023ef9ef1cc757.jpg
-  - /assets/images/dfb245a292352642.jpg
+  - /assets/images/zhulen-iz-gribov-step-3-1.jpg
+  - /assets/images/zhulen-iz-gribov-step-3-2.jpg
 - name: Шаг 4
   description: Отправляем в духовку 180° до тех пор, пока сыр не расплавится. Примерно
     в течении 10 минут, сыр красиво растечется по грибной массе
   images:
-  - /assets/images/5ff133f6cd1c7b98.jpg
+  - /assets/images/zhulen-iz-gribov-step-4-1.jpg
 - name: Шаг 5
   description: Зеленью укропа украшаем сырную шапку. Жульен готов, можно подавать
     на стол
   images:
-  - /assets/images/663bc26928dd63c9.jpg
-  - /assets/images/c1de05b6745d73c9.jpg
+  - /assets/images/zhulen-iz-gribov-step-5-1.jpg
+  - /assets/images/zhulen-iz-gribov-step-5-2.jpg
 ---

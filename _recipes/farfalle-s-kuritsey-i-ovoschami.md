@@ -5,7 +5,7 @@ description: Такую вкусняшку пробовал в одном из �
   подойдёт для лёгкого романтического ужина под бутылочку вина.
 prep_time: 1 - 1,5 часа
 servings: 8 порций
-preview: /assets/images/82569dffe62eda92.jpg
+preview: /assets/images/farfalle-s-kuritsey-i-ovoschami-preview.jpg
 ingredients:
 - name: 400 грамм, паста фарфалле (бантики)
   isHead: false
@@ -32,48 +32,48 @@ steps:
   description: Приготовим продукты. У меня ушла лишь по половине от кабачка и цукини,
     поэтому можно оставить в рецепте впринципе только цукини.
   images:
-  - /assets/images/d57588249882f585.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-1-1.jpg
 - name: Шаг 2
   description: Помоем цукини и нарежем на тоненькие полосочки. Это важно. Тоже самое
     сделаем с кабачком и морковью. Грибы нарезаем покрупнее, лук покрошил ручным кухонным
     топориком
   images:
-  - /assets/images/d7d50caf398f9313.jpg
-  - /assets/images/bc2b3a809fc53291.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-2-1.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-2-2.jpg
 - name: Шаг 3
   description: Сперва лук и грибы обжарим в небольшом количестве разогретого растительного
     масла в сковороде. Обжариваем до полной готовности, пока лук не станет темнеть.
     Переместим грибы с луком в отдельную ёмкость
   images:
-  - /assets/images/04d33cc4a88ee366.jpg
-  - /assets/images/8b393aca61fa6b77.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-3-1.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-3-2.jpg
 - name: Шаг 4
   description: Куриное филе режем на мелкие кусочки, солим и перчим и отправляем на
     сковороду. Когда мясо покроется корочкой, перемешиваем и наливаем сливки. Накроем
     крышкой и сделаем убавим огонь. В таком режиме потушим минут 5-10
   images:
-  - /assets/images/5a7fd5ba3e2014ed.jpg
-  - /assets/images/ffeccf10705615da.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-4-1.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-4-2.jpg
 - name: Шаг 5
   description: Добавляем раннее приготовленные овощи и жаренные грибы с луком. Достаточно
     потушить минут 5, чтобы овощи стали понежнее. Цукини сохранит свой вкус и форму,
     а остаток жидкости в это время немного выпарится
   images:
-  - /assets/images/848ad8844cef066a.jpg
-  - /assets/images/2b8fd5a867d192b0.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-5-1.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-5-2.jpg
 - name: Шаг 6
   description: Всё, заправка к пасте готова.
   images:
-  - /assets/images/e64eba1951957f17.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-6-1.jpg
 - name: Шаг 7
   description: Теперь остаётся налить воду в кастрюлю, посолить и приготовить пасту,
     согласно рецепта на упаковке. В пасту добавляем немного сливочного масла для того,
     чтобы она не превратилась в один большой шар из варёного теста
   images:
-  - /assets/images/7992450be6ea23de.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-7-1.jpg
 - name: Шаг 8
   description: 'Выкладываем порционно на тарелку: фарфалле, поливаем мясным соусом
     и посыпаем сверху тёртым сыром. Можно теперь насладиться результатом 😋'
   images:
-  - /assets/images/c9710a882cc230c9.jpg
+  - /assets/images/farfalle-s-kuritsey-i-ovoschami-step-8-1.jpg
 ---
