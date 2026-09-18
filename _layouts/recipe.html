@@ -5,19 +5,19 @@ layout: default
   <nav aria-label="breadcrumb" class="mb-4">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="text-decoration-none">Главная</a></li>
-      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title | xml_escape }}</li>
     </ol>
   </nav>
 
-  <h1 class="mb-3 display-5 fw-bold">{{ page.title }}</h1>
+  <h1 class="mb-3 display-5 fw-bold">{{ page.title | xml_escape }}</h1>
   
   {% if page.preview %}
     <div class="text-center bg-dark rounded overflow-hidden mb-4" style="max-height: 450px;">
-      <img src="{{ page.preview | relative_url }}" alt="{{ page.title }}" class="img-fluid" style="max-height: 450px; object-fit: contain;">
+      <img src="{{ page.preview | relative_url }}" alt="{{ page.title | xml_escape }}" class="img-fluid" style="max-height: 450px; object-fit: contain;">
     </div>
   {% endif %}
   
-  <p class="lead text-secondary">{{ page.description }}</p>
+  <p class="lead text-secondary">{{ page.description | xml_escape }}</p>
   
   <div class="alert alert-secondary d-flex justify-content-around align-items-center my-4 py-3">
     <div><strong>Время:</strong> {{ page.prep_time | default: "Не указано" }}</div>
@@ -45,8 +45,8 @@ layout: default
       {% for step in page.steps %}
         <div class="card mb-4 border-0 shadow-sm">
           <div class="card-body">
-            <h4 class="card-title h5 text-primary">Шаг {{ forloop.index }}</h4>
-            <p class="card-text fs-6">{{ step.description }}</p>
+            <h4 class="card-title h5 text-secondary">Шаг {{ forloop.index }}</h4>
+            <p class="card-text fs-6">{{ step.description | xml_escape }}</p>
             {% if step.images.size > 0 %}
               <div class="d-flex flex-wrap gap-2 mt-3">
                 {% for img in step.images %}
@@ -63,6 +63,6 @@ layout: default
   </div>
   
   <div class="mt-4">
-    <a href="{{ '/' | relative_url }}" class="btn btn-outline-primary">← На главную к каталогу</a>
+    <a href="{{ '/' | relative_url }}" class="btn btn-outline-primary">← к рецептам</a>
   </div>
 </article>
