@@ -35,7 +35,7 @@ title: Каталог рецептов
   {% endfor %}
 </div>
 
-<script>
+<script type="text/javascript">
   document.getElementById('search-box').addEventListener('input', function(e) {
     let query = e.target.value.toLowerCase();
     let items = document.querySelectorAll('.recipe-item');

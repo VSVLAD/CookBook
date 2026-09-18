@@ -65,4 +65,30 @@ layout: default
   <div class="mt-4">
     <a href="{{ '/' | relative_url }}" class="btn btn-outline-primary">← к рецептам</a>
   </div>
+
+  <script type="text/javascript">
+    document.querySelectorAll('.card-body').forEach(cardBody => {
+    const wrappers = cardBody.querySelectorAll('.bg-light.border.rounded.p-1');
+
+    wrappers.forEach(wrapper => {
+      const img = wrapper.querySelector('.img-fluid');
+      
+      wrapper.style.transition = 'max-height 0.3s ease';
+      if (img) img.style.transition = 'max-height 0.3s ease';
+      wrapper.style.cursor = 'pointer';
+
+      wrapper.addEventListener('click', () => {
+        const isExpanded = wrapper.style.maxHeight === '100%';
+
+        if (!isExpanded) {
+          wrapper.style.maxHeight = '100%';
+          if (img) img.style.maxHeight = '100%';
+        } else {
+          wrapper.style.maxHeight = '200px';
+          if (img) img.style.maxHeight = '190px';
+        }
+      });
+    });
+  });
+  </script>
 </article>
