@@ -3,30 +3,37 @@ layout: default
 title: Каталог рецептов
 ---
 
-<div style="margin-bottom: 25px;">
-  <input type="text" id="search-box" placeholder="Поиск рецептов по названию или описанию..." style="width: 100%; padding: 12px; font-size: 16px; border: 1px solid #ddd; border-radius: 6px; box-sizing: border-box;">
+<div class="row mb-4">
+  <div class="col-12">
+    <h1 class="mb-3">Список рецептов</h1>
+    <input type="text" id="search-box" class="form-control form-control-lg" placeholder="Поиск рецептов по названию или описанию...">
+  </div>
 </div>
 
-<ul id="recipe-list" style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 15px;">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="recipe-list">
   {% for recipe in site.recipes %}
-    <li class="recipe-item" data-title="{{ recipe.title | downcase | xml_escape }}" data-desc="{{ recipe.description | downcase | xml_escape }}" style="border: 1px solid #eaeaea; border-radius: 8px; background: #fff; overflow: hidden; transition: box-shadow 0.2s;">
-      <a href="{{ recipe.url | relative_url }}" style="display: flex; text-decoration: none; color: inherit; align-items: stretch;">
+    <div class="col recipe-item" data-title="{{ recipe.title | downcase | xml_escape }}" data-desc="{{ recipe.description | downcase | xml_escape }}">
+      <div class="card h-100 shadow-sm border-0">
         {% if recipe.preview %}
-          <div style="width: 160px; min-width: 160px; height: 120px; overflow: hidden; background: #f0f0f0;">
-            <img src="{{ recipe.preview | relative_url }}" alt="{{ recipe.title | xml_escape }}" style="width: 100%; height: 100%; object-fit: cover;">
+          <div style="height: 180px; overflow: hidden; background: #f8f9fa;">
+            <img src="{{ recipe.preview | relative_url }}" class="card-img-top w-100 h-100" style="object-fit: cover;" alt="{{ recipe.title }}">
           </div>
         {% else %}
-          <div style="width: 160px; min-width: 160px; height: 120px; background: #f0f0f0; display: flex; align-items: center; justify-content: center; color: #999; font-size: 12px;">Нет фото</div>
+          <div style="height: 180px; background: #e9ecef;" class="d-flex align-items-center justify-content: center text-muted">Нет фото</div>
         {% endif %}
-        <div style="padding: 15px; display: flex; flex-direction: column; justify-content: center; flex-grow: 1;">
-          <h2 style="margin: 0 0 8px 0; font-size: 18px; color: #0366d6;">{{ recipe.title | xml_escape }}</h2>
-          <p style="margin: 0 0 8px 0; color: #586069; font-size: 14px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">{{ recipe.description | xml_escape }}</p>
-          <small style="color: #6a737d; font-size: 13px;">🕒 {{ recipe.prep_time | default: "Не указано" }} &nbsp;|&nbsp; 🍽 Порций: {{ recipe.servings | default: "Не указано" }}</small>
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title text-dark">{{ recipe.title }}</h5>
+          <p class="card-text text-muted small flex-grow-1" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">{{ recipe.description }}</p>
+          <div class="d-flex justify-content-between align-items-center mt-3 pt-2 border-top text-muted small">
+            <span>🕒 {{ recipe.prep_time | default: "—" }}</span>
+            <span>🍽 {{ recipe.servings | default: "—" }}</span>
+          </div>
+          <a href="{{ recipe.url | relative_url }}" class="stretched-link"></a>
         </div>
-      </a>
-    </li>
+      </div>
+    </div>
   {% endfor %}
-</ul>
+</div>
 
 <script>
   document.getElementById('search-box').addEventListener('input', function(e) {
