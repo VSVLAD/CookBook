@@ -13,7 +13,7 @@ title: Каталог рецептов
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="recipe-list">
   {% for recipe in site.recipes %}
     <div class="col recipe-item" data-title="{{ recipe.title | downcase | xml_escape }}" data-desc="{{ recipe.description | downcase | xml_escape }}">
-      <div class="card h-100 shadow-sm border-0">
+      <div class="card h-100 shadow-sm">
         {% if recipe.preview %}
           <div style="height: 180px; overflow: hidden; background: #f8f9fa;">
             <img src="{{ recipe.preview | relative_url }}" class="card-img-top w-100 h-100" style="object-fit: cover;" alt="{{ recipe.title | downcase | xml_escape }}">

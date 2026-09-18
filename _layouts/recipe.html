@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="recipe bg-white p-4 p-md-5 rounded shadow-sm">
+<article class="recipe p-4 p-md-5 rounded shadow-sm">
   <nav aria-label="breadcrumb" class="mb-4">
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="text-decoration-none">Рецепты</a></li>
@@ -30,7 +30,7 @@ layout: default
       <ul class="list-group list-group-flush">
         {% for ing in page.ingredients %}
           {% if ing.isHead %}
-            <li class="list-group-item fw-bold bg-light mt-2 rounded">{{ ing.name }}</li>
+            <li class="list-group-item fw-bold mt-2 rounded">{{ ing.name }}</li>
           {% else %}
             <li class="list-group-item">{{ ing.name }}</li>
           {% endif %}
@@ -43,14 +43,14 @@ layout: default
     <div class="col-12">
       <h2 class="h3 border-bottom pb-2 mb-4">Шаги приготовления</h2>
       {% for step in page.steps %}
-        <div class="card mb-4 border-0 shadow-sm">
+        <div class="card mb-4 shadow-sm">
           <div class="card-body">
             <h4 class="card-title h5 text-secondary">Шаг {{ forloop.index }}</h4>
             <p class="card-text fs-6">{{ step.description | xml_escape }}</p>
             {% if step.images.size > 0 %}
               <div class="d-flex flex-wrap gap-2 mt-3">
                 {% for img in step.images %}
-                  <div class="bg-light border rounded p-1" style="max-height: 200px; overflow: hidden;">
+                  <div class="bg-body border rounded p-1" style="max-height: 200px; overflow: hidden;">
                     <img src="{{ img | relative_url }}" alt="Шаг {{ forloop.parentloop.index }}" class="img-fluid rounded" style="max-height: 190px; object-fit: contain;">
                   </div>
                 {% endfor %}
